@@ -1,0 +1,104 @@
+---
+title: "Recommendation of harder styles music on Spotify"
+author: "Szymon Bujowski"
+date: "5/12/2022"
+abstract: "TODO - abstract - what & why is this about, what & how has been used, one-sentence-long result summary"
+output:
+  pdf_document:
+    toc: yes
+  html_document:
+    toc: yes
+    number_sections: yes
+    toc_float: yes
+    theme: united
+    highlight: tango
+always_allow_html: true
+---
+
+```{r setup, include=FALSE}
+# add stuff if needed
+```
+
+# Introduction
+
+`TODO` - the context, the "behind", the "why", the personal connection, the "what"
+
+`TODO` - extract and use in README
+
+# Dataset
+
+## Rough data
+
+`TODO` - detailed description of the dataset and its characteristics
+
+- short description of the dataset (where does it come from, how obtained, etc.)
+- examples from the dataset
+- interpretation of the attributes
+  - types
+  - meaning
+  - histograms
+  - correlations
+  - etc.
+
+## Hypothesis
+
+`TODO` - the three (or more?) possible hypothesis
+`TODO` - posed classification question
+
+What I presume:
+- Spotify recommendations system sucks and could work better
+- not enough attributes for specifically harder styles
+- I'm too picky
+
+## Cleaning
+
+`TODO` - fill in section if cleaning was done, otherwise remove
+
+## Preprocessing
+
+`TODO` - how the data was preprocessed
+
+- manual removal of unnecessary attributes (possibly by merging them, e.g. artist with title to form "just descriptive" one)
+- (possibly) division into subsets (if something interesting across some specific subset)
+- making data "nicer" - discretization, etc.
+
+# Classification
+
+`TODO` - main stuff, the juice, the ganja; concerns both data
+
+## Classifier 1
+
+`TODO`
+
+- description
+- parameters
+- used software/tools
+- show & interpret all the interesting knowledge induced by this approach
+
+## Classifier 2
+
+`TODO`
+
+## Classifier 3
+
+`TODO`
+
+## Classifier (?)
+
+`TODO` - add more classifiers if used, remove if just three
+
+## Comparison
+
+`TODO` - comparison of all the above approaches
+
+
+
+`TODO` - distinction between classifying the whole thing and the subsets (if they exist)
+
+# Classifiers in practice
+
+`TODO` - apply the classifiers to a new *discover weekly* Spotify's list, check if they did better job than it
+
+# Conclusions
+
+`TODO`
