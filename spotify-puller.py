@@ -36,7 +36,7 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
     :param liked: optional boolean attribute applied to all tracks (not used by default)
     :return: pandas dataframe with dataset for the classification
     """
-    tracks_items = get_all_playlist_items(sp, example_playlist)
+    tracks_items = get_all_playlist_items(sp, playlist)
 
     df = pd.DataFrame(columns=[
         # ***** *** meta
@@ -97,12 +97,20 @@ if __name__ == "__main__":
     sp = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials())
 
     # playlists
-    example_playlist = "29e9lxxlte7IE7dwrSHhKP"
+    liked_playlist = '5RjMFH5S8IVDgfQ1Ieb1tE'
+    dislike_playlist = '0MdJYjGcqxXeGvCInR5AaA'
+    validation_playlist = '3TYkNBdCNc726vILtliMuo'
 
     # making data
-    tracks_data = make_tracks_data(sp, example_playlist, True)
-    print(tracks_data)
-    tracks_data.to_csv('out.csv')
+    liked_tracks_data = make_tracks_data(sp, liked_playlist, True)
+    liked_tracks_data.to_csv('data/liked.csv')
+
+    disliked_tracks_data = make_tracks_data(sp, dislike_playlist, False)
+    disliked_tracks_data.to_csv('data/disliked.csv')
+
+    # TODO - may need to manually assign if the following are liked or not
+    validation_tracks_data = make_tracks_data(sp, validation_playlist)
+    validation_tracks_data.to_csv('data/validation.csv')
 
 
 # ***** *** NOTE - interesting to potentially get into later, but for now

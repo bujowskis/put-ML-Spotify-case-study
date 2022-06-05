@@ -1,0 +1,91 @@
+,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence
+0,I can see it in your eyes,['Lucas Mountain'],spotify:track:052jJunJ19wBGNlg8sz7me,0.000395,0.729,0.827,0.118,4,0.178,-6.906,0,0.0494,139.988,4,0.77
+1,Raggatempo,['Barber'],spotify:track:2srUJbpwQ0iKTy0ddpOztJ,0.000579,0.359,0.962,0.0392,6,0.376,-1.689,0,0.0719,200.069,4,0.103
+2,Acid React - Original Mix,['Xenia (UA)'],spotify:track:3lz3QwIzOu3ImWUJQqDr0I,0.0258,0.613,0.983,0.829,1,0.0427,-5.071,1,0.0763,131.992,4,0.273
+3,Techno bis zur Hochzeit,"['Schleini', 'Schillah']",spotify:track:5LQzMV9ZiHe4Z83rGsLZUX,0.366,0.618,0.755,0.0224,1,0.119,-10.678,1,0.0574,163.0,4,0.434
+4,Darkness,"['MARTIN K4RMA', 'Salvatore Mediana']",spotify:track:3qmJ2mmoMMh8oshmyhOYen,0.000449,0.709,0.837,0.835,1,0.115,-7.097,0,0.0463,128.015,4,0.0377
+5,I Keep My Friends in the Basement (Original Mix),['BEHEĀDER'],spotify:track:1AgrzmAxcgW30rD53Z2Vcp,0.0139,0.63,0.992,0.893,5,0.427,-0.717,1,0.157,155.001,4,0.123
+6,Right Now,['EFESIAN'],spotify:track:7vSqCdYJe4lug8jdV3Impc,0.0105,0.684,0.888,0.934,9,0.317,-5.484,0,0.0342,135.968,4,0.266
+7,March Of The LG,"['Dimatik', 'BDN', 'GRN']",spotify:track:7cUbbqojFIokFmTuybmKPd,0.00382,0.338,0.975,0.784,10,0.379,-4.843,0,0.123,160.708,4,0.447
+8,Saturday Noise Fever,"['Micropoint', 'The Horrorist']",spotify:track:0oAgGqcPgp30Q82vpe3YYQ,0.156,0.657,0.883,0.678,11,0.11,-5.819,0,0.0728,145.027,4,0.293
+9,Take Me to Hell - Club Edit,['SWARM'],spotify:track:7usgxGsQ6sLy0HJebL7dMN,0.153,0.667,0.7,0.608,8,0.343,-8.326,1,0.128,100.005,4,0.136
+10,Plaguemon,['The Motordogs'],spotify:track:4jwgRvPfMhSh2VUdoi4FTu,0.00396,0.663,0.983,0.0433,2,0.0905,1.234,1,0.0813,100.002,4,0.188
+11,Parkzicht,['Clouds'],spotify:track:6aWnrmYebqf3rYpVKETuUH,6.34e-05,0.512,0.879,0.935,11,0.731,-9.349,1,0.0748,140.028,4,0.17
+12,Zen,"['Hyrule War', 'Bass Prototype']",spotify:track:2WDs9JeaoADZbtDwAJJBbR,0.00969,0.583,0.989,0.114,6,0.128,0.384,1,0.0791,100.006,4,0.208
+13,Fireball,['Vizionn'],spotify:track:5glzWtGgVnI8TB7hVIygkL,0.00165,0.673,0.968,0.808,7,0.0683,-5.657,1,0.0658,150.025,4,0.361
+14,The Reaper,['Mani Festo'],spotify:track:0IE97MhiBnyCBykT4DGqxu,0.0021,0.76,0.871,0.203,2,0.189,-7.044,1,0.0511,139.984,4,0.0929
+15,Insomnia - Remix,"['Fv', 'Henrique']",spotify:track:37x6OMm05jigolAh5SL1kl,0.00373,0.702,0.994,0.852,9,0.12,-0.607,1,0.0715,125.995,4,0.409
+16,Nightmare,"['Sebastian Groth', 'Ben Dust', 'Markus Weigelt']",spotify:track:2NQGvfgBl5jtkhHB9vVksa,0.00309,0.634,0.997,0.849,4,0.0643,-6.852,1,0.0629,139.994,4,0.502
+17,Killer Ginger,['TreuHand'],spotify:track:2SCghrpuF274tiblusAlxx,0.0652,0.684,0.996,0.87,5,0.074,-7.632,1,0.073,138.007,4,0.207
+18,Kaunst da Denga - GehLekTek Remix,['Franz Fuexe'],spotify:track:2knAsOgziI8NyZ82usUZUr,0.0967,0.76,0.984,0.842,7,0.106,-6.989,1,0.18,162.009,4,0.395
+19,The Living Will Envy the Dead,['We Are Magonia'],spotify:track:6l45DlUoOTzCGUjlF4aTwo,0.00101,0.468,0.838,0.88,6,0.314,-7.924,1,0.0996,114.9,4,0.212
+20,Reaching For The Sky,"['Noisekick’s', 'Terrordrang']",spotify:track:62GErSASVDLNAE9h4QRPRf,0.000529,0.444,0.972,0.0138,7,0.476,-2.746,1,0.218,150.034,4,0.207
+21,Hardcore Vibes - Radio Edit,['Ravers on Dope'],spotify:track:33XnScQou3GJvmq6XZVNr1,0.00212,0.635,0.906,0.0308,1,0.395,-7.523,1,0.0395,141.426,4,0.353
+22,Destruction,['Dyroth'],spotify:track:4TpvYuKlrlJTRD7t47IWiO,0.000285,0.426,0.86,0.0636,1,0.146,-6.506,1,0.0884,110.015,4,0.202
+23,Shadow,['Lokier'],spotify:track:0DGSgdbANr1APWFQvpIHRg,0.21,0.678,0.742,0.848,5,0.0848,-7.055,0,0.0389,136.007,4,0.137
+24,You Look at Me,['Julien Riess'],spotify:track:05L5ExA33eJEEiuTwXB1up,0.000197,0.723,0.879,0.901,11,0.0936,-7.355,0,0.061,130.024,4,0.114
+25,Stop De Boot,"['Dimitri K', 'Act Of Madness']",spotify:track:5cWATPyeYVfOGc9Wddl8EL,0.0631,0.725,0.87,0.0083,7,0.113,-1.308,1,0.072,100.073,4,0.0941
+26,MOON AT COLORADO - CHR1ST3KK EDIT,['TEKKISLOVE'],spotify:track:39G4Lm6YpLKrFwmyphM1D2,0.0128,0.687,0.866,0.849,8,0.114,-9.041,0,0.0808,90.007,4,0.266
+27,Morn,['VINYA'],spotify:track:6x8uwIwTaus0BRa7mDPeYe,0.0416,0.535,0.977,0.731,9,0.0931,-8.61,0,0.0715,144.988,4,0.152
+28,Cut the Knot,['HORSKH'],spotify:track:40Rd45JziCgPNFABqJjOig,0.000126,0.556,0.939,0.0146,1,0.638,-4.56,1,0.086,134.987,4,0.307
+29,GHS06,['In Verruf'],spotify:track:6NAZEKABDsI4M6urMRiDFH,1.54e-05,0.49,0.99,0.499,11,0.0413,-6.182,0,0.0855,139.977,4,0.139
+30,The Origins,"['Lem-X', 'Tha Watcher']",spotify:track:5zgmwyq75H0sQE6MlqPL4M,0.0396,0.391,0.981,2.55e-06,7,0.261,-2.379,1,0.459,180.066,4,0.177
+31,Keihard Naar De Tyfus!,"['Kasparov', 'Revolter', 'Zwaargewicht']",spotify:track:4kSNCHCIv5mORz0FnDYPRz,0.0625,0.528,0.998,0.000222,1,0.0991,-2.609,1,0.256,179.983,4,0.0396
+32,Toxibombs,"['Trampsta', 'Heavy Drop']",spotify:track:3mO4c7lqY78SjDkWXE4cp3,0.0198,0.607,0.831,0.287,7,0.094,-6.772,1,0.0899,143.052,4,0.532
+33,Smoked,"['Regain', 'Fraw', 'Mutilator']",spotify:track:14Zge11a2WwpKq0GX31ked,0.0124,0.571,0.984,0.00232,1,0.375,-3.729,1,0.0882,160.032,4,0.526
+34,Xearo's Box,['Trespassed'],spotify:track:2TJ6iNbQOZ0G5DM9EMm424,0.0271,0.631,0.982,0.881,11,0.524,-1.502,0,0.0418,105.018,4,0.0766
+35,What I Have,['Militiā'],spotify:track:3hJGImZ7lzBXGZphSHTsp7,0.000574,0.51,0.993,0.837,1,0.136,-7.229,0,0.0632,146.019,4,0.522
+36,God Damn Noise - Original Mix,['Evil Activities'],spotify:track:48Ql2NpnnSE5l9RrnIhjBY,0.0917,0.448,0.985,0.0483,0,0.0953,-1.588,1,0.231,177.06,4,0.15
+37,Gib Mir Alles - Original Mix,"['O.B.I.', 'RWGK', 'Timo Revna']",spotify:track:6oLe2vEi4uSK76nSkhqZwu,0.00131,0.594,0.999,0.808,9,0.122,-4.886,0,0.0805,150.024,4,0.164
+38,Dystopian Warfare,['Exil der Schatten'],spotify:track:7gCawQOpIlYMigXWafL1lO,1e-05,0.45,0.878,0.849,6,0.126,-6.514,0,0.042,143.992,4,0.0573
+39,Night Train,['Teddy Killerz'],spotify:track:0zGHWnTtESiQrWwnCA1yBM,0.00134,0.34,0.991,0.866,9,0.137,-1.014,1,0.231,174.997,4,0.0354
+40,PARANOIA,['NOTYPE'],spotify:track:47ZM5TILTpMa1maCNGBjkg,0.0138,0.369,0.997,0.000215,7,0.835,-1.067,1,0.5,159.345,4,0.0998
+41,Afbreken,"['Angernoizer', 'D-Fence']",spotify:track:62oeg1sBAM6KPfxzYB4Xom,0.344,0.625,0.99,0,7,0.118,-1.501,1,0.128,105.015,4,0.252
+42,Wij Gaan Harder,"['N-Vitral', 'Never Surrender']",spotify:track:6ACGbE2El19XeciwtWsCNJ,0.0978,0.54,0.983,0,2,0.26,-1.155,1,0.0934,99.988,4,0.1
+43,Kryptonite,"['Sprinky', 'Death Faction']",spotify:track:0pX3jIqtPqGIF1uLmcCAvI,0.00496,0.566,0.996,0.182,10,0.322,-2.324,0,0.222,100.202,4,0.073
+44,Shock Therapy - Rising Altitude Mix,"['Splinta', 'Rising Altitude']",spotify:track:6L9GtT3ZHrKj4lquUakm9n,0.0811,0.684,0.977,0.796,10,0.316,-5.359,0,0.17,141.98,4,0.186
+45,Dégustation De Basses,['El Desperado'],spotify:track:4OEFEWKjh9DC2fMmiarojk,0.0795,0.763,0.649,0.747,9,0.182,-10.122,1,0.117,155.024,4,0.15
+46,Fake Drop,"['The Sickest Squad', 'Andy the Core']",spotify:track:2BDC0Tgu6x812J4qq5ddR3,0.00282,0.482,0.834,0.295,11,0.0712,-4.962,0,0.234,200.014,4,0.139
+47,Ameno - DJ Mad Dog & Unexist Mix,"['Destructive Tendencies', 'F. Noize']",spotify:track:29ixODiWtHll3A3eOk2CvL,0.183,0.653,0.963,0.00756,6,0.0828,-1.036,0,0.134,94.985,4,0.0698
+48,Mean Machine (Official Supremacy 2017 Anthem) - Destroy Edit,"['Act of Rage', 'Nolz']",spotify:track:19MATQmJgcdIpRJ0zS446g,0.346,0.471,0.96,6.99e-05,5,0.137,-3.385,0,0.346,154.679,4,0.0606
+49,Cooler Than Me,"['The Dark Horror', 'Amon']",spotify:track:1enUWamzGEQ03PgBE9hf3o,0.0563,0.661,0.818,1.26e-05,7,0.0846,-5.09,1,0.344,179.932,4,0.201
+50,Oldschool Hardcore,"['Hbkn', 'Karate']",spotify:track:6sycOo2e3iybOh20jUO7lT,3.3e-05,0.626,0.99,0.687,10,0.165,-2.751,0,0.1,180.022,4,0.539
+51,Bass Till I Die,"['DRS', 'D-Fence', 'Mr. Hyde']",spotify:track:7i1S0BsAMwAMHUININzqRD,0.0744,0.629,0.998,6.56e-05,9,0.7,0.13,1,0.181,114.96,4,0.0873
+52,Bitches & Ho's,['Da Bootleggers'],spotify:track:0wHgVAsu8SxuSio5jX7qm6,0.0249,0.696,0.78,0.00352,5,0.0491,-7.598,1,0.0759,145.002,4,0.736
+53,Explosions - Album Edit,"['Vazard', 'Delete']",spotify:track:6KZuG1BPer7hzLb5q0DlbT,0.125,0.687,0.986,0.00658,11,0.596,-2.146,0,0.225,155.06,4,0.338
+54,Bopity Boopi,['Noize Suppressor'],spotify:track:3FODhl1eYGeGgaU29ZVvoL,0.00674,0.741,0.996,6.34e-06,7,0.0406,-1.648,1,0.156,100.009,4,0.0709
+55,Music Making MF,['Manifest Destiny'],spotify:track:1pN07OKlElaR5oerIY2UhF,0.00945,0.718,0.944,0.142,2,0.92,-2.454,1,0.0568,105.008,4,0.245
+56,Lights On - Original Mix,"['Wrexx DNB', 'The Skank Bank']",spotify:track:0zvmI72SgOLfmolgNpoYWP,0.0632,0.431,0.792,0.131,4,0.406,-6.412,0,0.306,174.447,4,0.562
+57,Last Summer,['Rebekah'],spotify:track:6phXaP28ZIrCuAfBKSnSpc,7.56e-06,0.415,0.759,0.917,4,0.383,-11.102,0,0.0395,138.006,4,0.0362
+58,We Are Legion - Matt Green Remix,['Ambassador21'],spotify:track:2mV3Y65yxzsUan8WO5Tb0q,0.00781,0.5,1.0,0.355,1,0.344,0.025,1,0.262,164.99,4,0.0348
+59,Machine Gun,['Noisia'],spotify:track:2e2jrRbtSWS5muWM9zPK5Z,7.85e-05,0.685,0.797,0.875,6,0.198,-2.132,0,0.0508,128.014,4,0.143
+60,I Can See You,['Mark Albertini'],spotify:track:2YPuIG6miHL5FqTE2L3o1O,0.00247,0.676,0.857,0.821,1,0.0994,-6.837,0,0.0589,132.001,4,0.152
+61,Dein Licht,['Phosgore'],spotify:track:7AefxLK3b4OzmuffSdmaw6,0.00796,0.637,0.964,0.364,3,0.305,-4.79,0,0.0419,146.006,4,0.0576
+62,Confucius - Original Mix,['Noisecontrollers'],spotify:track:4vUlQzxCHnueoza9r02Aoa,0.065,0.674,0.903,0.525,6,0.209,-6.936,0,0.106,150.008,4,0.568
+63,Burn,['Recognise'],spotify:track:7bYkZf8BQAi7L0ylUgkEcH,0.00422,0.835,0.668,0.797,11,0.1,-6.128,1,0.0431,126.998,4,0.596
+64,Cause of Death: Suicide - X-fusion Remix,['Suicide Commando'],spotify:track:2Hs66TBwVLQAt4SHrNCt9I,0.00205,0.582,0.99,0.817,6,0.15,-3.743,1,0.0564,150.047,4,0.515
+65,Kings Never Die - Radio Edit,['Unexist'],spotify:track:50htDUryjqdf749iimknkC,0.00805,0.391,0.99,0.114,6,0.198,-0.539,0,0.202,180.003,4,0.0342
+66,Bone Breakers,['Lulu'],spotify:track:2ZOtUPzy9rvOr2d689NxQ2,0.0417,0.652,0.908,0.809,7,0.111,-7.607,1,0.093,150.012,4,0.109
+67,Power Lust Greed Fame,['SWART'],spotify:track:2Zc7dsfarfVBmeiLPnzIHI,0.0015,0.529,0.973,0.795,8,0.117,-6.828,1,0.062,141.978,4,0.25
+68,12 Inch - Rocco vs. Bass-T Remix,"['Niels De Vries', 'Rocco', 'BASS-T']",spotify:track:7vQJetkcxR7vetJtGh5Qcf,0.000307,0.738,0.939,0.44,11,0.366,-7.325,1,0.0574,138.006,4,0.657
+69,Lullabye - Tuz Remix,"[""Uberjak'd"", 'Lockdown', 'Enya Angel', 'Tuz']",spotify:track:1fW9eQjgWCeXd9FptZSxkC,0.164,0.815,0.628,0.182,6,0.109,-10.792,0,0.0856,127.971,4,0.215
+70,This Is Classic,"['Francesco Zeta', 'Lacer']",spotify:track:2zKYLePsRqzqRAioj89N1B,7.27e-05,0.741,0.977,0.00151,9,0.152,-2.979,0,0.134,150.063,4,0.0594
+71,Emmène Moi Raver Didier (Jan Vercauteren Remix),"['UNNAMED (UNMD)', 'Jan Vercauteren']",spotify:track:190ylZti6Gd4p13DTYPvON,5.15e-05,0.457,0.995,0.865,7,0.354,-7.801,1,0.0454,154.002,4,0.685
+72,Harder - Original Mix,['AKKI (DE)'],spotify:track:2sugtdgNTYoD2958skoTXy,0.00014,0.573,0.969,0.694,0,0.12,-7.217,1,0.0498,132.999,4,0.56
+73,Viera,"['Stevie Melani', 'Sousa']",spotify:track:121Qef9f4Fa2AKfsBLQWpW,0.0113,0.716,0.808,0.294,2,0.244,-6.786,1,0.0658,140.026,4,0.0391
+74,Moshi Moshi,"['Yung Rare', 'Pyrxciter', 'Young zetton']",spotify:track:6BDoYKMD9I4qJgXHtlY4ms,0.0013,0.362,0.977,0,8,0.947,-1.34,1,0.34,111.909,5,0.457
+75,What Is Techno,['Rhys Sfyrios'],spotify:track:7IOeOXBG6E5LYK1MOkffvL,0.127,0.793,0.692,0.632,6,0.346,-5.444,0,0.0703,128.0,4,0.0702
+76,Artificial Intelligence,['Hardcore'],spotify:track:3Bhltrf7gpzOgqeuO6kfOw,0.311,0.475,0.81,0.863,11,0.203,-9.563,0,0.0403,178.135,4,0.0381
+77,260486 In Chernobyl,['Roentgen Limiter'],spotify:track:1Qgvs42YsLqHKqTklZmdm2,0.000795,0.689,0.975,0.815,9,0.146,-5.326,1,0.0771,133.989,4,0.444
+78,Reeperbahn,['Interactive Noise'],spotify:track:1s9ohVR9nFLDTnGMABxEr6,0.043,0.796,0.765,0.834,11,0.158,-6.625,0,0.067,141.004,4,0.548
+79,Trave,['Jacidorex'],spotify:track:59JR2hlnq86O81r944cZzs,0.000111,0.694,0.943,0.866,6,0.0745,-9.185,0,0.198,145.002,4,0.309
+80,Kapitän zur See,['DORFTEKK'],spotify:track:0EAaTBs0cVOdCVsc6DYiX8,0.0849,0.504,0.515,0.841,4,0.105,-15.403,0,0.0533,79.966,4,0.394
+81,Bounty,['Dexperia'],spotify:track:4ByZT89D4GKUb9Z5Eynf4R,0.0379,0.632,0.504,0.0976,5,0.185,-11.151,0,0.0314,150.009,4,0.371
+82,Behemoth (Remix),"['Perturbator', 'Gost']",spotify:track:1i5uaqmAkETSaIfZkcVYkx,5.2e-05,0.597,0.925,0.871,1,0.265,-6.077,1,0.0433,129.036,4,0.311
+83,"Baba Hase, Pt. 1",['denizontour'],spotify:track:5HeSTJsnTy5hz2uYr65ypu,0.00116,0.772,0.812,0.297,7,0.13,-12.35,1,0.163,134.985,4,0.0334
+84,Big Daddy,['USAO'],spotify:track:269rQm8d4nhcBTx0WIBRRl,9.65e-05,0.558,0.939,0.839,1,0.366,-3.787,1,0.0998,95.013,4,0.825
+85,Ameno - HydrokicK remix,['HydrokicK'],spotify:track:6hQyuSqIlhZA7lqOcLM4tK,0.584,0.655,0.758,0.509,8,0.103,-5.692,0,0.172,150.035,4,0.533
+86,Freaking You Out,['Partiboi69'],spotify:track:7yX6xHubhHZxnY1JDjMG8i,0.00276,0.659,0.897,0.0054,7,0.0242,-7.435,1,0.106,151.966,4,0.658
+87,Jack To The Sound - T78 Remix,"['Thick As Thieves', 'T78']",spotify:track:1SOLmshccKyVepeYqVCfa2,6.36e-05,0.659,0.958,0.842,1,0.254,-6.574,1,0.0375,131.996,4,0.0331
+88,Nostalgia,['plenka'],spotify:track:3EFiOzk8PaZ26seRHZoy3s,0.000972,0.524,0.656,0.875,5,0.598,-6.292,0,0.0691,139.935,4,0.159
+89,Tibulinnu [Siimi Remix],"['marp$', 'Clicherik', 'Siimi']",spotify:track:31tav0EX557Q5Gyrn89rmu,0.0628,0.749,0.804,0,5,0.122,-2.905,0,0.297,173.97,4,0.578
