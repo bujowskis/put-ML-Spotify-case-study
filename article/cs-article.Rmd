@@ -40,7 +40,7 @@ One of these functionalities is the **Discover Weekly** - a user-tailored mixtap
   - click **Hide that song** (the song is considered **not** liked)
 - based on which song you liked and hid, we will adjust our recommendation system to better suit your taste
 
-Does the recommendation system work well thn? Subjectively, **no**. Personally, I am quite a music junkie with a rather *particular* taste in music. **Harder styles** such as Techno, Hardstyle, Hardcore, Gabber, Uptempo, etc. are one of my favorites and take up a big part of my music consumption. I would like to explore new tracks to listen to and thus I give feedback on every song Spotify plays me. However, time and time again the recommendations regarding the mentioned styles is **very** off, with an average accuracy of **just 1/30**.
+Does the recommendation system work well then? Subjectively, **no**. Personally, I am quite a music junkie with a rather *particular* taste in music. **Harder styles** such as Techno, Hardstyle, Hardcore, Gabber, Uptempo, etc. are one of my favorites and take up a big part of my music consumption. I would like to explore new tracks to listen to and thus I give feedback on every song Spotify plays me. However, time and time again the recommendations regarding the mentioned styles is **very** off, with an average accuracy of **just 1/30**.
 
 Unsure of what is the cause of that, I have been thinking about creating my own classification system which could serve the role of tracks recommendation system and comparing it to Spotify's one. Fortunately enough, having learnt about Spotify's API enabling pulling metadata regarding the songs, and given this case study assignment, I have an opportunity to do exactly that.
 
