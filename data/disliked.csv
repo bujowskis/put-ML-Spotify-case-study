@@ -1,2 +1,2 @@
 ,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,liked
-0,Lyra - Broken Minds Remix,"['Korsakoff', 'Broken Minds']",spotify:track:5R234KEG9dj0MhKE5grfZV,0.000352,0.299,0.982,0.293,9,0.118,-2.197,0,0.135,195.14,4,0.0398,False
+0,Lyra - Broken Minds Remix,Korsakoff; Broken Minds; ,spotify:track:5R234KEG9dj0MhKE5grfZV,0.000352,0.299,0.982,0.293,9,0.118,-2.197,0,0.135,195.14,4,0.0398,False

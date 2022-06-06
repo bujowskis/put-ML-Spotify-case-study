@@ -37,6 +37,8 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
     :return: pandas dataframe with dataset for the classification
     """
     tracks_items = get_all_playlist_items(sp, playlist)
+    for foo in tracks_items:
+        print(foo)
 
     df = pd.DataFrame(columns=[
         # ***** *** meta
@@ -63,9 +65,9 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
 
         # ***** *** meta
         track_data['name'] = track['name']
-        artists = list()
+        artists = ''
         for artist in track['artists']:
-            artists.append(artist['name'])
+            artists += artist['name'] + '; '
         track_data['artists'] = artists  # track['artists'][0]['name']
         track_data['uri'] = track['uri']
 
@@ -111,6 +113,11 @@ if __name__ == "__main__":
     # TODO - may need to manually assign if the following are liked or not
     validation_tracks_data = make_tracks_data(sp, validation_playlist)
     validation_tracks_data.to_csv('data/validation.csv')
+
+    combined_tracks_data = pd.concat([liked_tracks_data, disliked_tracks_data])
+    combined_tracks_data = combined_tracks_data.reset_index(drop=True)
+    combined_tracks_data.index.name = 'idx'
+    combined_tracks_data.to_csv('data/combined.csv')
 
 
 # ***** *** NOTE - interesting to potentially get into later, but for now
