@@ -1,2 +1,52 @@
-,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,liked
-0,Lyra - Broken Minds Remix,Korsakoff; Broken Minds; ,spotify:track:5R234KEG9dj0MhKE5grfZV,0.000352,0.299,0.982,0.293,9,0.118,-2.197,0,0.135,195.14,4,0.0398,False
+idx,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,liked
+0,Lyra - Broken Minds Remix,Korsakoff and Broken Minds and ,spotify:track:5R234KEG9dj0MhKE5grfZV,0.000352,0.299,0.982,0.293,9,0.118,-2.197,0,0.135,195.14,4,0.0398,False
+1,Reborn,Octatonez and ,spotify:track:2wl8ETNtJLjCKCxDoU44lY,0.0168,0.396,0.727,0.0114,8,0.712,-6.834,1,0.0442,74.927,4,0.285,False
+2,Rave Culture 2022,Sub Zero Project and ,spotify:track:3xeaR6dAHQHU6rtUPRK9tX,0.00171,0.292,0.947,0.593,1,0.191,-4.449,1,0.0906,150.101,4,0.0859,False
+3,Pumping Love,DJ Blyatman and Russian Village Boys and ,spotify:track:06r0Nk4Q7hrX7nz0x9picH,0.00117,0.621,0.897,0.611,8,0.0788,-6.575,1,0.0658,162.031,4,0.93,False
+4,Fvck Up,Reflexx and ,spotify:track:41YrY3Anwv6JpQEH5lTX8y,0.0535,0.643,0.916,0.0011,2,0.32,-7.076,1,0.0475,91.025,4,0.433,False
+5,Power,Genox and ,spotify:track:70uk5J1yFxKbqjTeiaDw8w,0.00239,0.599,0.988,0.0695,1,0.0794,-1.55,1,0.292,155.022,4,0.364,False
+6,Kyoto,Code Black and ,spotify:track:0JUukZ46kepvKAGEFka3m1,0.0131,0.562,0.899,0.589,7,0.203,-4.636,0,0.0397,150.0,4,0.298,False
+7,I LOVE HARDBASS,GSPD and XS Project and ,spotify:track:0xYsapCkJE5kOZgRRooWN7,0.273,0.662,0.982,0.0367,11,0.0607,-1.7,0,0.0692,149.995,4,0.855,False
+8,Trick Me,Geck-O and D00d and Mesloes and ,spotify:track:5rpLPal82U3JYr6YAAe7rC,0.00244,0.785,0.825,0.67,1,0.327,-4.75,1,0.0682,135.053,4,0.253,False
+9,Infinity,Neolux and ,spotify:track:5wsET7UzdeLwvTkAkVytut,0.0053,0.467,0.981,0.898,1,0.222,-3.37,0,0.0485,149.955,4,0.609,False
+10,Bass & Acid - Radio Edit,Zatox and ,spotify:track:53HIWlkSYwHIwsTcNVrJid,0.00348,0.653,0.956,0.686,4,0.0834,-8.236,0,0.144,140.006,4,0.0366,False
+11,Soul Train,Geck-O and ,spotify:track:6JYSexyeLFu8mJbfmA0zPb,0.000445,0.614,0.99,0.872,11,0.706,-2.732,0,0.347,148.052,4,0.108,False
+12,Reverse The Bass,TNT and Technoboy and Tuneboy and ,spotify:track:4ZJVtATf78hjgRe9Ov8csj,0.000242,0.665,0.973,0.0465,1,0.194,-3.807,1,0.435,155.003,4,0.155,False
+13,Home,Headhunterz and ,spotify:track:0zolxiS5uiL5towOJrsJi4,0.187,0.552,0.829,5.44e-05,6,0.283,-4.988,0,0.0845,150.039,4,0.367,False
+14,Stronger,Vertile and ,spotify:track:1IKMEfiewbgYxP6NjWkzPx,0.000899,0.482,0.977,1.84e-06,7,0.367,-2.13,1,0.432,154.992,4,0.325,False
+15,OMG,TNT and Technoboy and Tuneboy and ,spotify:track:6Cqo0qJSJlKinxjuflSr9H,0.013,0.684,0.991,0.00521,1,0.0818,-3.694,1,0.257,154.941,4,0.191,False
+16,World of the Dream,Sefa and Dr. Peacock and ,spotify:track:2IUcLN1s1vum52dtdQRBXe,0.15,0.242,0.756,0.282,7,0.0889,-3.162,1,0.0635,92.821,4,0.0393,False
+17,Run From Reality,Ran-D and Endymion and LePrince and ,spotify:track:6XAjjeQkt52pLVFaIk6gNi,0.057,0.437,0.931,0.0,3,0.347,-1.232,0,0.0639,77.496,4,0.315,False
+18,Harder State Of Mind,D-Block & S-te-Fan and DJ Isaac and ,spotify:track:3QeEf7TMugwZkmn0hPmXio,0.0044,0.515,0.94,1.06e-05,9,0.23,-2.452,0,0.0478,150.051,4,0.284,False
+19,Warrior - Extended Version,Mark With a K and Robert Falcon and ,spotify:track:7eDCoOxaczn7Uwoqtogu70,0.00706,0.473,0.912,6.48e-05,5,0.157,-3.235,1,0.0292,155.021,4,0.328,False
+20,Silence - Brennan Heart Remix,Delerium and Sarah McLachlan and Brennan Heart and ,spotify:track:0cfxGRaCEFKwz66bURIYz5,0.0196,0.204,0.817,2.9e-05,9,0.0678,-3.706,0,0.0505,149.686,4,0.195,False
+21,The Resistance - Radio Edit,Ran-D & Adaro & Alpha2 and ,spotify:track:1ZG8WpqQLlZm7FsDEtpLj6,0.135,0.57,0.986,1.24e-06,9,0.329,-2.78,1,0.168,150.114,4,0.529,False
+22,Das Boot,Noisecontrollers and Atmozfears and B-Front and ,spotify:track:0iNIsiJLxEBeqCcKzvBT9A,0.297,0.352,0.844,0.422,11,0.0951,-5.711,0,0.0701,74.851,4,0.0445,False
+23,Fight For Something,Brennan Heart and Coone and Max P and ,spotify:track:4v0pQjXKhn23KCOymfoSsh,0.00376,0.504,0.728,0.0,11,0.14,-5.089,0,0.0334,150.011,3,0.116,False
+24,Battleborn,Ran-D and Frequencerz and Adaro and ,spotify:track:5qaBcAcCuRaXAfQIVhwkws,0.125,0.329,0.968,0.0,5,0.169,-2.636,0,0.345,155.03,4,0.146,False
+25,The Music Is Moving,TNT and Rudeejay and Technoboy and ,spotify:track:1sl6EiHX5lJPfdZZKDnxD9,0.00473,0.501,0.993,0.902,1,0.147,-5.502,1,0.0802,150.05,4,0.451,False
+26,Bonjour - Dj Thera Hardertrance Remix,Geck-O and Dj Thera and ,spotify:track:2fnXKweH45BN3pFbQvS0fx,0.0153,0.55,0.987,0.878,9,0.067,-4.485,0,0.13,149.966,4,0.0672,False
+27,Run & Hide,Hysta and ,spotify:track:2YbF58E534l8ivjG9oNb8N,0.00227,0.43,0.963,0.0698,7,0.735,-3.414,1,0.192,95.244,4,0.13,False
+28,Stallion Girl,Detest and ,spotify:track:5Bc7klquWE61OwMY4a5tv2,0.0107,0.579,0.998,0.219,9,0.126,-0.792,1,0.215,100.034,4,0.157,False
+29,Yallah Habibi,Broken Minds and MBK and MC Prime and ,spotify:track:3l1zk4sklf1MNQhAk8FAk6,0.0159,0.624,0.974,0.00244,5,0.285,-2.922,0,0.214,105.06,4,0.152,False
+30,The Curse,Odium and GridKiller and ,spotify:track:4oQifw7H6Itict1dGa46D2,0.00365,0.549,0.989,0.736,1,0.41,-3.636,1,0.287,179.908,4,0.111,False
+31,Widifan,Massive Disorder and Rosell and ,spotify:track:45LLrgQQkRYsNDayYxiwZG,0.0175,0.599,0.988,0.0489,11,0.717,-2.984,1,0.459,100.033,4,0.244,False
+32,In for the Kill,Dither and ,spotify:track:4NWgX0HvFgy070AyQOSzch,0.0637,0.573,0.961,0.284,6,0.248,-0.421,0,0.116,180.083,4,0.289,False
+33,Adagio For Strings,Odium and ,spotify:track:7bSKyN6tnyc2TAujMpePm7,0.0287,0.192,0.564,0.574,1,0.149,-5.447,1,0.0546,169.9,4,0.0772,False
+34,Horrorcore Party - Original Mix,TerrorClown and Lord Of Speed and ,spotify:track:2mtljG9hj97SK2d9gqmGTl,0.00235,0.564,0.981,0.174,6,0.541,-3.919,1,0.0769,100.124,4,0.0866,False
+35,Waking Up The Dead,Never Surrender and How To Loot Brazil and ,spotify:track:0ihZHlSx7codRdlmCf3Kco,0.064,0.499,0.994,0.0232,0,0.328,-1.174,1,0.132,182.948,4,0.394,False
+36,Reaching For The Sky,Noisekicks and Terrordrang and ,spotify:track:62GErSASVDLNAE9h4QRPRf,0.000529,0.444,0.972,0.0138,7,0.476,-2.746,1,0.218,150.034,4,0.207,False
+37,Right Kind Of Wrong,Unproven and ,spotify:track:3jt69VjecivVYw4bwx9giJ,2.76e-05,0.511,0.948,3.29e-06,4,0.792,-1.884,0,0.0476,102.494,4,0.0397,False
+38,King Cani,Broken Minds and ,spotify:track:4NfUHeJ02ud3m9z3Clhovi,0.0888,0.616,0.991,0.149,7,0.24,-1.0,1,0.367,199.954,4,0.325,False
+39,Electrocore,Floxytek and Neika and ,spotify:track:47pzrxZmJo1XV4V6SuU4wT,0.00135,0.429,0.983,0.858,5,0.129,-1.962,1,0.125,149.964,4,0.478,False
+40,House Is Dead,Lil Texas and Rob Gee and ,spotify:track:3dEJbGy6GDUwH0saptxllf,0.0383,0.648,0.993,0.00156,4,0.183,1.611,0,0.158,109.937,4,0.222,False
+41,Payback,Delete and Tha Watcher and ,spotify:track:0UDVMvCdkiUUlhexSbwIK7,0.129,0.552,0.929,0.000363,1,0.706,-1.625,1,0.545,159.72,4,0.173,False
+42,Wanderer,Broken Minds and D-Frek and ,spotify:track:5eD7bf0ZJOslSMisuTBfAS,0.00124,0.488,0.999,0.346,4,0.783,0.13,0,0.149,100.014,4,0.126,False
+43,Life is War,Neko and ,spotify:track:7vT2gfvlL5zEV878c5FzVJ,0.158,0.645,0.994,1.17e-06,7,0.301,-1.193,1,0.23,95.016,4,0.143,False
+44,LOCA,Mizz Behave and The Freaky Bastard and ,spotify:track:4rDMTHoDzr427HONy7Z9wO,0.0268,0.631,0.965,0.000179,8,0.312,-2.726,1,0.201,105.019,4,0.183,False
+45,Wij Gaan Harder,N-Vitral and Never Surrender and ,spotify:track:6ACGbE2El19XeciwtWsCNJ,0.0978,0.54,0.983,0.0,2,0.26,-1.155,1,0.0934,99.988,4,0.1,False
+46,Atlantic,Hysta and Advanced Dealer and ,spotify:track:4HtJlTZH8uc0Bw8U0RXlGH,0.0178,0.577,0.989,0.0073,2,0.302,-1.816,1,0.15,99.965,4,0.364,False
+47,Beat My Drum,Dither and ,spotify:track:17RJrhF02qbO7jN0jU5mdQ,0.114,0.618,0.994,2.59e-06,7,0.275,0.217,1,0.479,179.939,4,0.0715,False
+48,OUT OF SPACE,Andy the Core and Eggedd and ,spotify:track:6YlsTEWcUwK6z2HcnPu3Gm,0.0046,0.54,0.949,3.69e-05,6,0.215,-2.579,1,0.156,100.07,4,0.459,False
+49,Basskick Paradise [Mixed],Cryogenic and ,spotify:track:66aqorn8xZBjZqh9IUBetw,0.00111,0.322,0.923,0.00895,1,0.18,-0.614,1,0.113,117.01,4,0.295,False
+50,Coke In My Nose,Broken Minds and ,spotify:track:57RH39syW9DFOZSHKeyjy0,0.0368,0.574,0.974,0.0124,1,0.0698,-2.325,1,0.275,184.939,4,0.182,False

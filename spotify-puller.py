@@ -5,6 +5,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
 
+from unidecode import unidecode
+
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
@@ -36,13 +38,25 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
     :param liked: optional boolean attribute applied to all tracks (not used by default)
     :return: pandas dataframe with dataset for the classification
     """
+
+    # NOTE - stupid python won't change single quote to nothing
+    # (e.g. Noisekick's and Terrordrang and is the result...)
+    def wekafier_text(text):
+        rejects = {',': ' ', ';': ' ', "'": ''}
+        for key in rejects:
+            text = text.replace(key, rejects[key])
+
+        text = unidecode(text)
+
+        return ''.join([x if x != "'" else '' for x in text])  # That's the workaround...
+
     tracks_items = get_all_playlist_items(sp, playlist)
-    for foo in tracks_items:
-        print(foo)
 
     df = pd.DataFrame(columns=[
         # ***** *** meta
-        'name', 'artists', 'uri',   # easy access to the song
+        'name',                   # dropped because of WEKA csv reading process
+        'artists',                # dropped because of WEKA csv reading process
+        'uri',                      # easy access to the song
         # ***** *** functional
         'acousticness',             # [0.0, 1.0]            - (not acoustic - acoustic)
         'danceability',             # [0.0, 1.0]            - (not for dancing - suitable for dance)
@@ -63,11 +77,12 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
     for track in tracks:
         track_data = dict()
 
-        # ***** *** meta
-        track_data['name'] = track['name']
+        # ***** *** meta TODO - comma handling
+        track_data['name'] = wekafier_text(track['name'])
         artists = ''
         for artist in track['artists']:
-            artists += artist['name'] + '; '
+            artists += artist['name'] + ' and '
+        artists = wekafier_text(artists)
         track_data['artists'] = artists  # track['artists'][0]['name']
         track_data['uri'] = track['uri']
 
@@ -77,10 +92,10 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
         track_data['danceability'] = track_audio_features['danceability']
         track_data['energy'] = track_audio_features['energy']
         track_data['instrumentalness'] = track_audio_features['instrumentalness']
-        track_data['key'] = track_audio_features['key']
+        track_data['key'] = track_audio_features['key']  # TODO - map keys
         track_data['liveness'] = track_audio_features['liveness']
         track_data['loudness'] = track_audio_features['loudness']
-        track_data['mode'] = track_audio_features['mode']
+        track_data['mode'] = track_audio_features['mode']  # TODO - map into category OR binary True/False
         track_data['speechiness'] = track_audio_features['speechiness']
         track_data['tempo'] = track_audio_features['tempo']
         track_data['time_signature'] = track_audio_features['time_signature']
@@ -105,13 +120,16 @@ if __name__ == "__main__":
 
     # making data
     liked_tracks_data = make_tracks_data(sp, liked_playlist, True)
+    liked_tracks_data.index.name = 'idx'
     liked_tracks_data.to_csv('data/liked.csv')
 
     disliked_tracks_data = make_tracks_data(sp, dislike_playlist, False)
+    disliked_tracks_data.index.name = 'idx'
     disliked_tracks_data.to_csv('data/disliked.csv')
 
     # TODO - may need to manually assign if the following are liked or not
     validation_tracks_data = make_tracks_data(sp, validation_playlist)
+    validation_tracks_data.index.name = 'idx'
     validation_tracks_data.to_csv('data/validation.csv')
 
     combined_tracks_data = pd.concat([liked_tracks_data, disliked_tracks_data])
