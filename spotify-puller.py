@@ -77,7 +77,7 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
     for track in tracks:
         track_data = dict()
 
-        # ***** *** meta TODO - comma handling
+        # ***** *** meta
         track_data['name'] = wekafier_text(track['name'])
         artists = ''
         for artist in track['artists']:
@@ -128,9 +128,9 @@ if __name__ == "__main__":
     disliked_tracks_data.to_csv('data/disliked.csv')
 
     # TODO - may need to manually assign if the following are liked or not
-    validation_tracks_data = make_tracks_data(sp, validation_playlist)
-    validation_tracks_data.index.name = 'idx'
-    validation_tracks_data.to_csv('data/validation.csv')
+    # validation_tracks_data = make_tracks_data(sp, validation_playlist)
+    # validation_tracks_data.index.name = 'idx'
+    # validation_tracks_data.to_csv('data/validation.csv')
 
     combined_tracks_data = pd.concat([liked_tracks_data, disliked_tracks_data])
     combined_tracks_data = combined_tracks_data.reset_index(drop=True)
