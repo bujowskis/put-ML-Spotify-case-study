@@ -4,11 +4,30 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd
-
 from unidecode import unidecode
-
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
+
+# mappings needed for proper data labeling
+key_mapping = {
+    0: 'C',
+    1: 'C#',
+    2: 'D',
+    3: 'D#',
+    4: 'E',
+    5: 'F',
+    6: 'F#',
+    7: 'G',
+    8: 'G#',
+    9: 'A',
+    10: 'A#',
+    11: 'B'
+}
+
+mode_mapping = {
+    0: 'minor',
+    1: 'major'
+}
 
 
 def get_all_playlist_items(sp: spotipy.Spotify, playlist_id) -> list:
@@ -83,19 +102,22 @@ def make_tracks_data(sp: spotipy.Spotify, playlist, liked: bool = None) -> pd.Da
         for artist in track['artists']:
             artists += artist['name'] + ' and '
         artists = wekafier_text(artists)
-        track_data['artists'] = artists  # track['artists'][0]['name']
+        track_data['artists'] = artists
         track_data['uri'] = track['uri']
 
         # ***** *** functional
         track_audio_features = sp.audio_features(track['uri'])[0]
+        if track_audio_features is None:
+            continue
+
         track_data['acousticness'] = track_audio_features['acousticness']
         track_data['danceability'] = track_audio_features['danceability']
         track_data['energy'] = track_audio_features['energy']
         track_data['instrumentalness'] = track_audio_features['instrumentalness']
-        track_data['key'] = track_audio_features['key']  # TODO - map keys
+        track_data['key'] = key_mapping[track_audio_features['key']]
         track_data['liveness'] = track_audio_features['liveness']
         track_data['loudness'] = track_audio_features['loudness']
-        track_data['mode'] = track_audio_features['mode']  # TODO - map into category OR binary True/False
+        track_data['mode'] = mode_mapping[track_audio_features['mode']]
         track_data['speechiness'] = track_audio_features['speechiness']
         track_data['tempo'] = track_audio_features['tempo']
         track_data['time_signature'] = track_audio_features['time_signature']
@@ -116,27 +138,36 @@ if __name__ == "__main__":
     # playlists
     liked_playlist = '5RjMFH5S8IVDgfQ1Ieb1tE'
     dislike_playlist = '0MdJYjGcqxXeGvCInR5AaA'
-    validation_playlist = '3TYkNBdCNc726vILtliMuo'
+    validation_like_playlist = '5Y9jZ8etmknQlttThql6y0'
+    validation_dislike_playlist = '3znxOGhj5WTi45TFq9njiy'
 
     # making data
-    liked_tracks_data = make_tracks_data(sp, liked_playlist, True)
-    liked_tracks_data.index.name = 'idx'
-    liked_tracks_data.to_csv('data/liked.csv')
 
-    disliked_tracks_data = make_tracks_data(sp, dislike_playlist, False)
-    disliked_tracks_data.index.name = 'idx'
-    disliked_tracks_data.to_csv('data/disliked.csv')
+    # liked_tracks_data = make_tracks_data(sp, liked_playlist, True)
+    # liked_tracks_data.index.name = 'idx'
+    # liked_tracks_data.to_csv('data/liked.csv')
+    #
+    # disliked_tracks_data = make_tracks_data(sp, dislike_playlist, False)
+    # disliked_tracks_data.index.name = 'idx'
+    # disliked_tracks_data.to_csv('data/disliked.csv')
+    #
+    # combined_tracks_data = pd.concat([liked_tracks_data, disliked_tracks_data])
+    # combined_tracks_data = combined_tracks_data.reset_index(drop=True)
+    # combined_tracks_data.index.name = 'idx'
+    # combined_tracks_data.to_csv('data/combined.csv')
 
-    # TODO - may need to manually assign if the following are liked or not
-    # validation_tracks_data = make_tracks_data(sp, validation_playlist)
-    # validation_tracks_data.index.name = 'idx'
-    # validation_tracks_data.to_csv('data/validation.csv')
+    validation_like_data = make_tracks_data(sp, validation_like_playlist, True)
+    validation_like_data.index.name = 'idx'
+    validation_like_data.to_csv('data/validation_liked.csv')
 
-    combined_tracks_data = pd.concat([liked_tracks_data, disliked_tracks_data])
-    combined_tracks_data = combined_tracks_data.reset_index(drop=True)
-    combined_tracks_data.index.name = 'idx'
-    combined_tracks_data.to_csv('data/combined.csv')
+    validation_dislike_data = make_tracks_data(sp, validation_dislike_playlist, False)
+    validation_dislike_data.index.name = 'idx'
+    validation_dislike_data.to_csv('data/validation_disliked.csv')
 
+    combined_validation_data = pd.concat([validation_like_data, validation_dislike_data])
+    combined_validation_data = combined_validation_data.reset_index(drop=True)
+    combined_validation_data.index.name = 'idx'
+    combined_validation_data.to_csv('data/validation_combined.csv')
 
 # ***** *** NOTE - interesting to potentially get into later, but for now
     # aa = sp.audio_analysis(tracks_uri[0])

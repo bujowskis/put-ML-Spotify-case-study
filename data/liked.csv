@@ -1,79 +1,240 @@
 idx,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,liked
-0,CTRL.ALT.DELETE (In Qontrol Anthem 2009) - Original Mix,Noisecontrollers and ,spotify:track:1HEJz0gvpMUvpNLVEYEBtz,0.0551,0.7,0.917,0.0248,5,0.118,-5.678,0,0.0986,150.011,4,0.386,True
-1,Tekk Stil 175,Russian Village Boys and ,spotify:track:1UNnuTemNJp1ejfSuWFmm1,0.034,0.69,0.986,0.801,9,0.066,-4.399,1,0.0611,175.046,4,0.488,True
-2,Imma Boss - Fraw Remix,Bloodlust and Fraw and ,spotify:track:0pKujVFb0bAPeCorHRkEjG,0.0645,0.624,0.975,0.0129,10,0.364,-2.068,0,0.131,154.997,4,0.147,True
-3,Time Machine (ft. MC Stretch),Sub Zero Project and MC Stretch and ,spotify:track:5WETmx6UGJQq4un9JquKsk,0.000585,0.327,0.953,6.45e-05,1,0.0813,-5.657,1,0.462,144.415,4,0.143,True
-4,Back Once Again,Chris One and Clockartz and ,spotify:track:0xNlkMMX7X0GAc86JPjS6q,0.00743,0.564,0.995,0.0121,7,0.398,-3.583,1,0.192,160.03,4,0.303,True
-5,Forgiven,The Machine and ,spotify:track:6nh5b1pGJQ8f8aC4dbmX8d,0.0561,0.45,0.942,0.0,4,0.15,-3.059,0,0.0728,160.065,4,0.304,True
-6,Sequencer,Octatonez and ,spotify:track:2qCbXzLqepdmEVodUW7Yhz,0.0704,0.509,0.761,0.462,1,0.134,-9.478,1,0.126,150.093,4,0.133,True
-7,LASER BEAMS ,Riot Shift and ,spotify:track:0vShDWHGO6fcFJVUOuQhuf,0.145,0.561,0.971,0.00027,7,0.0531,-1.914,1,0.413,159.882,4,0.352,True
-8,Fly With Me,Sub Zero Project and ,spotify:track:7KYYmhJfJHJWjcgXbdJOnr,0.00149,0.519,0.959,0.712,11,0.202,-6.89,0,0.0487,150.03,4,0.406,True
-9,LOVE U BABY,Rooler and ,spotify:track:20tpprSZID3plDsRvlzaVv,0.00232,0.46,0.981,0.000105,8,0.174,-2.412,0,0.333,160.214,4,0.206,True
-10,Hello Baby / Privet detka,GPF and Russian Village Boys and ,spotify:track:1edBt12RA9NeOkX3z9LHKu,0.00632,0.686,0.946,0.00149,11,0.295,-1.353,1,0.044,100.016,4,0.312,True
-11,From The Underground (Rave Core),Deadly Guns and ,spotify:track:6f7hGT8dkVxUcMP943ZRmD,0.0374,0.683,0.957,0.17,1,0.17,-2.393,1,0.0577,94.973,4,0.256,True
-12,My Beautiful Fantasy,Phuture Noize and B-Front and ,spotify:track:0BAsf69u0gltlMFYMADpAn,0.132,0.319,0.865,0.0,2,0.135,-2.526,0,0.0415,155.133,4,0.0832,True
-13,Lockdown - Riot Shift Remix,Rebelion and Riot Shift and ,spotify:track:5zvFBAHYh57REFBPzcnTNR,0.0769,0.58,0.96,8.39e-06,4,0.275,-1.57,0,0.416,159.996,4,0.208,True
-14,Dont Give Up Now,Hard Driver and ,spotify:track:3dzH35z0iqq2nx5pDInlcJ,0.0352,0.459,0.873,0.000741,10,0.0995,-4.104,0,0.1,155.06,4,0.236,True
-15,Nightmare Nirvana,Sub Zero Project and Diandra Faye and ,spotify:track:0X89hVtXc6V04eRMCjB1Vj,0.0015,0.419,0.826,0.0105,1,0.319,-5.692,1,0.185,156.917,4,0.212,True
-16,Gabber,Betavoice and Russian Village Boys and ,spotify:track:2LXjdEdTPGjt4rp4DkGUqX,0.00434,0.713,0.969,0.0432,7,0.655,-3.692,1,0.23,100.003,4,0.0397,True
-17,Broccoli Fuck,GPF and Riot Shift and ,spotify:track:31Rwwh2kKCxExVeYRlGOWu,0.414,0.711,0.996,3.68e-06,10,0.924,0.654,0,0.46,110.128,3,0.0759,True
-18,Noise,Genox and ,spotify:track:3OGhLh1vttrh12yDVUE9U4,0.000292,0.459,0.893,0.000592,11,0.595,-3.679,1,0.145,159.981,4,0.152,True
-19,Dont Touch Yourself,Russian Village Boys and ,spotify:track:3IK8OEiq9lsrxhCJMC1KnU,0.00967,0.573,0.946,0.774,7,0.674,-5.372,1,0.0487,165.025,4,0.429,True
-20,Beastmode - GPFs Greaze Mode Remix,Killshot and GPF and ,spotify:track:3YY2RDy3pCdpXHIb6FmlEb,0.000206,0.557,0.971,0.000973,7,0.32,-2.236,1,0.0863,109.97,4,0.226,True
-21,Whos Your Daddy,GPF and J1zzy and ,spotify:track:1mL3byjdJNhLYwK2A6MBMz,0.0107,0.4,0.991,0.0,1,0.891,1.18,1,0.438,100.015,4,0.253,True
-22,Beyond Imagination - Element Remix,The Purge and Element and ,spotify:track:4SXhmBta459ZhEXcOiN2rI,0.0089,0.484,0.935,0.133,0,0.394,-1.868,1,0.459,154.984,4,0.0552,True
-23,Forever Drunk,Russian Village Boys and Skurt and ,spotify:track:4ir5Gqfn0mA5A88nk54can,0.0973,0.696,0.978,0.0,10,0.0984,-5.313,0,0.141,99.942,4,0.283,True
-24,Horrorshow,Killshot and ,spotify:track:7j3yHIUcCQzuQv3fiQp4BN,0.0917,0.532,0.942,0.0,9,0.122,-2.777,1,0.22,159.929,4,0.358,True
-25,RIGHT NOW,The Purge and Sickmode and ,spotify:track:2RYWQUYDd7cUL8FIKEMnLX,0.0262,0.721,0.972,0.0332,2,0.266,-0.859,1,0.326,155.003,4,0.4,True
-26,Virgin,GPF and D-Fence and ,spotify:track:1LSzf7kz9aIoxjKwZVLCgU,0.0234,0.63,0.946,0.0144,7,0.257,-0.819,1,0.0861,99.963,4,0.21,True
-27,Fire In My Body,Indecorum and ,spotify:track:0746AeHaYcU2GsG7ohLfTi,0.0303,0.757,0.98,0.675,8,0.218,-4.671,0,0.383,166.701,4,0.468,True
-28,TONIE MAJAMI - REMIX ZAJEBI$TY,WIXAPOL and Hewra and ,spotify:track:1UmBQPl6pARmcVHRdJfi4P,0.00951,0.685,0.857,0.226,11,0.0662,-7.907,0,0.084,154.996,4,0.41,True
-29,Doomed (Sub Zero Project Remix),Headhunterz and Sub Zero Project and ,spotify:track:1lmienGCl5PEyjVL4Nya8G,0.00192,0.519,0.852,0.0529,6,0.348,-4.13,1,0.211,75.004,4,0.212,True
-30,50 Shades,Zatox and Warface and ,spotify:track:3XODJaxWaioMk6Mbi8lBwk,0.00514,0.564,0.973,0.000724,8,0.102,-5.367,1,0.188,155.054,4,0.258,True
-31,One Blade - Noisecontrollers RMX,Brennan Heart and ,spotify:track:0gzz5IUTBhlRYP0RXjzaUw,0.0742,0.642,0.57,0.579,7,0.0408,-7.958,0,0.0503,149.958,4,0.131,True
-32,Keep Trying,Killaheadz and ,spotify:track:0kzYDb0JmLa68SVKRr4yAP,0.0311,0.442,0.895,2.79e-06,10,0.526,-8.242,0,0.227,155.274,4,0.157,True
-33,Cosmic Destination,Bioweapon and ,spotify:track:1M86Y2LIT2YYETVbhIZHod,0.00607,0.404,0.924,0.566,9,0.364,-5.463,0,0.107,149.942,4,0.215,True
-34,Pillars Of Creation - Original Mix,Noisecontrollers and ,spotify:track:6mYNHFNykGkAp56L0wW7Vy,0.0272,0.441,0.944,0.933,10,0.362,-5.738,0,0.0405,149.966,4,0.357,True
-35,Fine Day,Coone and Brennan Heart and ,spotify:track:7aKme0bvekUFoMI0cHGIRk,0.0772,0.502,0.956,0.00194,1,0.0455,-4.445,0,0.0874,150.018,4,0.266,True
-36,Colors - Radio Edit,Headhunterz and Tatu and ,spotify:track:294hFM73XdNEfTvKA0zcgk,0.03,0.529,0.937,0.000129,5,0.151,-3.398,0,0.0467,149.999,4,0.542,True
-37,Shake Ya Shimmy,Da Tweekaz and Code Black and ,spotify:track:1daoFi8qFwLyNndWTawfUG,0.00142,0.348,0.964,0.00012,2,0.951,-2.453,1,0.0559,154.894,4,0.456,True
-38,Ruffneck Bass,Bass Modulators and ,spotify:track:6LhEQgftPqdUxsTlWA8maj,0.0104,0.53,0.99,2.88e-05,11,0.664,-2.298,1,0.161,150.144,4,0.53,True
-39,Acid over Sydney 2020 - Blutonium Boy Edit,Blutonium Boy and ,spotify:track:01QPrB3LMvSgZDni3ipqE2,0.11,0.535,0.889,0.559,2,0.331,-3.765,1,0.0655,149.987,4,0.315,True
-40,Stereophobia - Original Mix,Dark Oscillators and ,spotify:track:2H7vb0rIZG5Q9RAFp4Vzyo,0.000584,0.721,0.965,0.81,0,0.167,-6.176,1,0.122,148.018,4,0.322,True
-41,High Rollerz - Original Mix,The Prophet and Headhunterz and ,spotify:track:3z3JBhe3oolO8u2aiBGtF1,0.0113,0.799,0.878,0.035,1,0.583,-6.929,0,0.0777,148.005,4,0.161,True
-42,Ride With Me (feat. Kid Ink) - Brennan Heart Remix,Tungevaag and Kid Ink and Brennan Heart and ,spotify:track:74CkeJ0vYYTdQImnaLy759,0.278,0.693,0.864,0.0388,4,0.0777,-4.17,0,0.0483,149.998,4,0.142,True
-43,Scrap Attack (Defqon.1 Anthem 2009) - Original Mix,Headhunterz and ,spotify:track:3HoqIMrRVvqXzpu0P04v5p,0.00297,0.607,0.875,0.0481,7,0.0645,-5.417,1,0.105,149.991,4,0.189,True
-44,We Come And Go - Album Edit,Brennan Heart and ,spotify:track:28ixrRo4KdWmphXrfLI4t5,0.0561,0.571,0.8,0.339,11,0.185,-6.797,0,0.0408,149.963,4,0.367,True
-45,Hard Bass [Mixed] - Ran-D Remix,Tatanka and Zatox and Wild Motherfuckers and ,spotify:track:6VQ6tnNQVjpwgin4CfICxj,0.0127,0.448,0.959,1.46e-05,11,0.346,-4.792,0,0.554,155.03,4,0.0437,True
-46,Superstar Dj - Original Mix,Dark Oscillators and ,spotify:track:4IaaLDBtk5GiKfV6ir70cx,0.00133,0.747,0.694,0.701,6,0.0555,-7.482,1,0.0723,144.995,4,0.412,True
-47,The Hunter And The Prey,Headhunterz and Sian Evans and ,spotify:track:2lnsXLdolOmxcAul5BZR56,0.000791,0.463,0.968,7.55e-05,2,0.337,-3.157,1,0.428,150.07,4,0.121,True
-48,Lucky You - Synthsoldier Remix,Geck-O and Synthsoldier and ,spotify:track:3gLFXLsjmc2xh9efFIMYra,0.00192,0.594,0.919,0.105,6,0.379,-6.912,0,0.0771,150.047,4,0.236,True
-49,Oh My God - Technoboy Dib Dub,Technoboy and Shayla and ,spotify:track:1APAuluB0fEvfLQK46N2af,0.00588,0.746,0.924,0.0252,11,0.474,-6.881,0,0.0766,150.006,4,0.742,True
-50,Unite (Defqon.1 Anthem 2011) - Original Mix,Noisecontrollers and ,spotify:track:1yI3Brey1oRQ7ZuNRlGxUA,0.0121,0.519,0.896,0.21,5,0.35,-6.46,0,0.059,150.108,4,0.404,True
-51,Trapped - Solaio Mix,Dark Oscillators and ,spotify:track:5f4c44v0YZrxe0UWSN0lC1,0.0137,0.792,0.631,0.376,6,0.351,-7.277,0,0.108,149.983,4,0.0482,True
-52,Imaginary,Brennan Heart and Jonathan Mendelsohn and ,spotify:track:2TgDK4TC5KsywTYafAE4Gd,0.298,0.552,0.594,6.17e-05,2,0.262,-6.449,1,0.0306,149.907,4,0.287,True
-53,Like a Slut - Extended Mix,Activator and ,spotify:track:12ZuZqfI8tWdP4v9OcuFQF,0.00356,0.808,0.986,0.563,2,0.0261,-4.963,1,0.276,144.97,4,0.136,True
-54,In The End - Dailucia Remix,Brennan Heart and Blademasterz and Dailucia and ,spotify:track:3Dp1Q6pygiVljbx832wT5X,0.0139,0.327,0.963,0.0,1,0.187,-2.877,1,0.065,150.036,4,0.0787,True
-55,Rock Civilization - Original Mix,Headhunterz and ,spotify:track:43LQCjsx42u7PJIcUyvTsf,0.0361,0.707,0.995,0.75,9,0.852,-6.367,0,0.191,149.999,4,0.0783,True
-56,Absolute Power,Broken Minds and Anime and ,spotify:track:40AyUGD8GSIl8xfNmfc8za,0.0036,0.566,0.937,0.196,1,0.237,-2.632,1,0.271,175.001,4,0.238,True
-57,Not for Me,Unicorn On Ketamine and ,spotify:track:3AcPubndpYkO1fFvzU1OaM,0.0293,0.69,0.974,0.00771,5,0.19,-0.952,0,0.0812,99.99,4,0.312,True
-58,To The Death (Official Thunderdome 2019 Anthem),Dither and ,spotify:track:3BwuZfXDEB70Y0BuzFpwLQ,0.241,0.558,0.989,0.000151,1,0.904,-0.378,1,0.419,180.112,4,0.0431,True
-59,Be Careful With Me,Yoorc and ,spotify:track:5Te4COomqQquePN2KjJsh5,0.0866,0.674,0.965,0.0547,7,0.123,-2.574,1,0.0564,165.029,4,0.277,True
-60,hold on tight,pikaboi and ,spotify:track:79z0zLpXdWk2VyTrF0KPr0,0.00797,0.489,0.981,0.145,0,0.0956,-4.429,1,0.0526,99.985,4,0.225,True
-61,Hadokoa,Neko and Maissouille and ,spotify:track:0G52vPejbZPiZKiOOrzflC,0.166,0.565,0.981,0.0428,7,0.756,-1.099,1,0.055,92.447,4,0.381,True
-62,Fine Night,Anime and ,spotify:track:0EUUAfLyEWjU1oHdLmU1qL,0.0888,0.288,0.988,0.000718,5,0.179,-0.645,1,0.129,100.019,1,0.0376,True
-63,Rave Machine,Dither and ,spotify:track:7quuryt7S7Ix5Xr51GC3Ng,0.062,0.641,0.968,0.134,8,0.312,-0.539,1,0.116,95.003,4,0.193,True
-64,Partystarter,Mizz Behave and ,spotify:track:0hQ9LHBzkUThXYZ3vSHl6X,0.000864,0.565,0.985,0.000609,4,0.237,-0.642,0,0.0416,100.004,4,0.0799,True
-65,Gabber Madness,Hysta and ,spotify:track:6p469MShv1FYZNXZ5kMqNb,0.0337,0.701,0.997,0.115,4,0.1,-0.13,0,0.161,104.998,4,0.0827,True
-66,Do You Wanna Ketamine [feat. MBK] - Angerkill Remix,Unicorn On Ketamine and MBK and Angerkill and ,spotify:track:2pvg4dzshxZcDvNxwOwecC,0.0117,0.71,0.999,0.0559,5,0.382,-3.863,0,0.294,120.029,4,0.0498,True
-67,ONYON,GPF and Dj Onion and The Greazy Elite and ,spotify:track:21hfiYaPDN8E14Trp4qTF3,0.0607,0.584,0.994,0.00037,11,0.323,3.16,0,0.126,134.933,4,0.107,True
-68,Sugar Beatz,Mizz Behave and Miss Enemy and ,spotify:track:6owYb925ghJ1g0UCbMHGek,0.135,0.592,0.959,0.000103,1,0.138,-0.292,1,0.143,107.529,4,0.208,True
-69,Bass Slut,Cryogenic and ,spotify:track:1JFP27S327rhv92cqca98W,0.000232,0.526,0.968,0.0,6,0.372,-1.285,1,0.14,115.096,4,0.311,True
-70,T3CHN0,Dither and ,spotify:track:1606yi0aEK8bUnsWhQd2VW,0.0445,0.644,0.987,0.000678,7,0.0919,0.525,1,0.422,170.076,4,0.299,True
-71,Inner Demons,Namara and ,spotify:track:3QoX0DdIugoIPqR9S0rrBa,0.0132,0.576,0.963,0.00187,2,0.383,-1.355,1,0.123,95.001,4,0.109,True
-72,Dance Like A Bull - MBK Refix,MBK and ,spotify:track:5QkSN4ogveVtDp592HbPvR,0.000465,0.585,0.989,0.000236,3,0.102,1.597,0,0.0505,114.985,4,0.163,True
-73,Greazed Up,GPF and Caine and Mizz Behave and ,spotify:track:7lU1SLFBdQL55eUfbA5ApY,0.00359,0.616,0.993,0.43,1,0.224,-0.562,1,0.101,115.026,4,0.161,True
-74,Raggen,D-Fence and Mr. Hyde and ,spotify:track:3ecqZYqkxy1XML5BVYWEvh,0.101,0.438,0.98,0.00526,7,0.572,-2.215,1,0.171,103.751,4,0.0411,True
-75,Description of Evil,Lil Texas and ,spotify:track:6qOzCs4rQkJdejTKnihUbL,0.0431,0.624,0.998,0.196,2,0.587,1.55,1,0.15,102.536,4,0.108,True
-76,Die Alone,Anime and Broken Minds and ,spotify:track:5TnngBGEvrYJJtOG5cv1V8,0.0682,0.339,0.95,3.81e-06,6,0.103,-2.805,0,0.448,185.091,4,0.0951,True
-77,You Treat Me Just Like,Deathroar and ,spotify:track:1AyRx9YOlSyPwVkt5I8O8M,0.00209,0.587,0.949,0.00163,10,0.171,-3.901,0,0.0516,107.955,4,0.248,True
+0,CTRL.ALT.DELETE (In Qontrol Anthem 2009) - Original Mix,Noisecontrollers and ,spotify:track:1HEJz0gvpMUvpNLVEYEBtz,0.0551,0.7,0.917,0.0248,F,0.118,-5.678,minor,0.0986,150.011,4,0.386,True
+1,Tekk Stil 175,Russian Village Boys and ,spotify:track:1UNnuTemNJp1ejfSuWFmm1,0.034,0.69,0.986,0.801,A,0.066,-4.399,major,0.0611,175.046,4,0.488,True
+2,Imma Boss - Fraw Remix,Bloodlust and Fraw and ,spotify:track:0pKujVFb0bAPeCorHRkEjG,0.0645,0.624,0.975,0.0129,A#,0.364,-2.068,minor,0.131,154.997,4,0.147,True
+3,Time Machine (ft. MC Stretch),Sub Zero Project and MC Stretch and ,spotify:track:5WETmx6UGJQq4un9JquKsk,0.000585,0.327,0.953,6.45e-05,C#,0.0813,-5.657,major,0.462,144.415,4,0.143,True
+4,Back Once Again,Chris One and Clockartz and ,spotify:track:0xNlkMMX7X0GAc86JPjS6q,0.00743,0.564,0.995,0.0121,G,0.398,-3.583,major,0.192,160.03,4,0.303,True
+5,Forgiven,The Machine and ,spotify:track:6nh5b1pGJQ8f8aC4dbmX8d,0.0561,0.45,0.942,0.0,E,0.15,-3.059,minor,0.0728,160.065,4,0.304,True
+6,Sequencer,Octatonez and ,spotify:track:2qCbXzLqepdmEVodUW7Yhz,0.0704,0.509,0.761,0.462,C#,0.134,-9.478,major,0.126,150.093,4,0.133,True
+7,LASER BEAMS ,Riot Shift and ,spotify:track:0vShDWHGO6fcFJVUOuQhuf,0.145,0.561,0.971,0.00027,G,0.0531,-1.914,major,0.413,159.882,4,0.352,True
+8,Fly With Me,Sub Zero Project and ,spotify:track:7KYYmhJfJHJWjcgXbdJOnr,0.00149,0.519,0.959,0.712,B,0.202,-6.89,minor,0.0487,150.03,4,0.406,True
+9,LOVE U BABY,Rooler and ,spotify:track:20tpprSZID3plDsRvlzaVv,0.00232,0.46,0.981,0.000105,G#,0.174,-2.412,minor,0.333,160.214,4,0.206,True
+10,Hello Baby / Privet detka,GPF and Russian Village Boys and ,spotify:track:1edBt12RA9NeOkX3z9LHKu,0.00632,0.686,0.946,0.00149,B,0.295,-1.353,major,0.044,100.016,4,0.312,True
+11,From The Underground (Rave Core),Deadly Guns and ,spotify:track:6f7hGT8dkVxUcMP943ZRmD,0.0374,0.683,0.957,0.17,C#,0.17,-2.393,major,0.0577,94.973,4,0.256,True
+12,My Beautiful Fantasy,Phuture Noize and B-Front and ,spotify:track:0BAsf69u0gltlMFYMADpAn,0.132,0.319,0.865,0.0,D,0.135,-2.526,minor,0.0415,155.133,4,0.0832,True
+13,Lockdown - Riot Shift Remix,Rebelion and Riot Shift and ,spotify:track:5zvFBAHYh57REFBPzcnTNR,0.0769,0.58,0.96,8.39e-06,E,0.275,-1.57,minor,0.416,159.996,4,0.208,True
+14,Dont Give Up Now,Hard Driver and ,spotify:track:3dzH35z0iqq2nx5pDInlcJ,0.0352,0.459,0.873,0.000741,A#,0.0995,-4.104,minor,0.1,155.06,4,0.236,True
+15,Nightmare Nirvana,Sub Zero Project and Diandra Faye and ,spotify:track:0X89hVtXc6V04eRMCjB1Vj,0.0015,0.419,0.826,0.0105,C#,0.319,-5.692,major,0.185,156.917,4,0.212,True
+16,Gabber,Betavoice and Russian Village Boys and ,spotify:track:2LXjdEdTPGjt4rp4DkGUqX,0.00434,0.713,0.969,0.0432,G,0.655,-3.692,major,0.23,100.003,4,0.0397,True
+17,Broccoli Fuck,GPF and Riot Shift and ,spotify:track:31Rwwh2kKCxExVeYRlGOWu,0.414,0.711,0.996,3.68e-06,A#,0.924,0.654,minor,0.46,110.128,3,0.0759,True
+18,Noise,Genox and ,spotify:track:3OGhLh1vttrh12yDVUE9U4,0.000292,0.459,0.893,0.000592,B,0.595,-3.679,major,0.145,159.981,4,0.152,True
+19,Dont Touch Yourself,Russian Village Boys and ,spotify:track:3IK8OEiq9lsrxhCJMC1KnU,0.00967,0.573,0.946,0.774,G,0.674,-5.372,major,0.0487,165.025,4,0.429,True
+20,Beastmode - GPFs Greaze Mode Remix,Killshot and GPF and ,spotify:track:3YY2RDy3pCdpXHIb6FmlEb,0.000206,0.557,0.971,0.000973,G,0.32,-2.236,major,0.0863,109.97,4,0.226,True
+21,Whos Your Daddy,GPF and J1zzy and ,spotify:track:1mL3byjdJNhLYwK2A6MBMz,0.0107,0.4,0.991,0.0,C#,0.891,1.18,major,0.438,100.015,4,0.253,True
+22,Beyond Imagination - Element Remix,The Purge and Element and ,spotify:track:4SXhmBta459ZhEXcOiN2rI,0.0089,0.484,0.935,0.133,C,0.394,-1.868,major,0.459,154.984,4,0.0552,True
+23,Forever Drunk,Russian Village Boys and Skurt and ,spotify:track:4ir5Gqfn0mA5A88nk54can,0.0973,0.696,0.978,0.0,A#,0.0984,-5.313,minor,0.141,99.942,4,0.283,True
+24,Horrorshow,Killshot and ,spotify:track:7j3yHIUcCQzuQv3fiQp4BN,0.0917,0.532,0.942,0.0,A,0.122,-2.777,major,0.22,159.929,4,0.358,True
+25,RIGHT NOW,The Purge and Sickmode and ,spotify:track:2RYWQUYDd7cUL8FIKEMnLX,0.0262,0.721,0.972,0.0332,D,0.266,-0.859,major,0.326,155.003,4,0.4,True
+26,Virgin,GPF and D-Fence and ,spotify:track:1LSzf7kz9aIoxjKwZVLCgU,0.0234,0.63,0.946,0.0144,G,0.257,-0.819,major,0.0861,99.963,4,0.21,True
+27,Fire In My Body,Indecorum and ,spotify:track:0746AeHaYcU2GsG7ohLfTi,0.0303,0.757,0.98,0.675,G#,0.218,-4.671,minor,0.383,166.701,4,0.468,True
+28,TONIE MAJAMI - REMIX ZAJEBI$TY,WIXAPOL and Hewra and ,spotify:track:1UmBQPl6pARmcVHRdJfi4P,0.00951,0.685,0.857,0.226,B,0.0662,-7.907,minor,0.084,154.996,4,0.41,True
+29,Doomed (Sub Zero Project Remix),Headhunterz and Sub Zero Project and ,spotify:track:1lmienGCl5PEyjVL4Nya8G,0.00192,0.519,0.852,0.0529,F#,0.348,-4.13,major,0.211,75.004,4,0.212,True
+30,50 Shades,Zatox and Warface and ,spotify:track:3XODJaxWaioMk6Mbi8lBwk,0.00514,0.564,0.973,0.000724,G#,0.102,-5.367,major,0.188,155.054,4,0.258,True
+31,One Blade - Noisecontrollers RMX,Brennan Heart and ,spotify:track:0gzz5IUTBhlRYP0RXjzaUw,0.0742,0.642,0.57,0.579,G,0.0408,-7.958,minor,0.0503,149.958,4,0.131,True
+32,Keep Trying,Killaheadz and ,spotify:track:0kzYDb0JmLa68SVKRr4yAP,0.0311,0.442,0.895,2.79e-06,A#,0.526,-8.242,minor,0.227,155.274,4,0.157,True
+33,Cosmic Destination,Bioweapon and ,spotify:track:1M86Y2LIT2YYETVbhIZHod,0.00607,0.404,0.924,0.566,A,0.364,-5.463,minor,0.107,149.942,4,0.215,True
+34,Pillars Of Creation - Original Mix,Noisecontrollers and ,spotify:track:6mYNHFNykGkAp56L0wW7Vy,0.0272,0.441,0.944,0.933,A#,0.362,-5.738,minor,0.0405,149.966,4,0.357,True
+35,Fine Day,Coone and Brennan Heart and ,spotify:track:7aKme0bvekUFoMI0cHGIRk,0.0772,0.502,0.956,0.00194,C#,0.0455,-4.445,minor,0.0874,150.018,4,0.266,True
+36,Colors - Radio Edit,Headhunterz and Tatu and ,spotify:track:294hFM73XdNEfTvKA0zcgk,0.03,0.529,0.937,0.000129,F,0.151,-3.398,minor,0.0467,149.999,4,0.542,True
+37,Shake Ya Shimmy,Da Tweekaz and Code Black and ,spotify:track:1daoFi8qFwLyNndWTawfUG,0.00142,0.348,0.964,0.00012,D,0.951,-2.453,major,0.0559,154.894,4,0.456,True
+38,Ruffneck Bass,Bass Modulators and ,spotify:track:6LhEQgftPqdUxsTlWA8maj,0.0104,0.53,0.99,2.88e-05,B,0.664,-2.298,major,0.161,150.144,4,0.53,True
+39,Acid over Sydney 2020 - Blutonium Boy Edit,Blutonium Boy and ,spotify:track:01QPrB3LMvSgZDni3ipqE2,0.11,0.535,0.889,0.559,D,0.331,-3.765,major,0.0655,149.987,4,0.315,True
+40,Stereophobia - Original Mix,Dark Oscillators and ,spotify:track:2H7vb0rIZG5Q9RAFp4Vzyo,0.000584,0.721,0.965,0.81,C,0.167,-6.176,major,0.122,148.018,4,0.322,True
+41,High Rollerz - Original Mix,The Prophet and Headhunterz and ,spotify:track:3z3JBhe3oolO8u2aiBGtF1,0.0113,0.799,0.878,0.035,C#,0.583,-6.929,minor,0.0777,148.005,4,0.161,True
+42,Ride With Me (feat. Kid Ink) - Brennan Heart Remix,Tungevaag and Kid Ink and Brennan Heart and ,spotify:track:74CkeJ0vYYTdQImnaLy759,0.278,0.693,0.864,0.0388,E,0.0777,-4.17,minor,0.0483,149.998,4,0.142,True
+43,Scrap Attack (Defqon.1 Anthem 2009) - Original Mix,Headhunterz and ,spotify:track:3HoqIMrRVvqXzpu0P04v5p,0.00297,0.607,0.875,0.0481,G,0.0645,-5.417,major,0.105,149.991,4,0.189,True
+44,We Come And Go - Album Edit,Brennan Heart and ,spotify:track:28ixrRo4KdWmphXrfLI4t5,0.0561,0.571,0.8,0.339,B,0.185,-6.797,minor,0.0408,149.963,4,0.367,True
+45,Hard Bass [Mixed] - Ran-D Remix,Tatanka and Zatox and Wild Motherfuckers and ,spotify:track:6VQ6tnNQVjpwgin4CfICxj,0.0127,0.448,0.959,1.46e-05,B,0.346,-4.792,minor,0.554,155.03,4,0.0437,True
+46,Superstar Dj - Original Mix,Dark Oscillators and ,spotify:track:4IaaLDBtk5GiKfV6ir70cx,0.00133,0.747,0.694,0.701,F#,0.0555,-7.482,major,0.0723,144.995,4,0.412,True
+47,The Hunter And The Prey,Headhunterz and Sian Evans and ,spotify:track:2lnsXLdolOmxcAul5BZR56,0.000791,0.463,0.968,7.55e-05,D,0.337,-3.157,major,0.428,150.07,4,0.121,True
+48,Lucky You - Synthsoldier Remix,Geck-O and Synthsoldier and ,spotify:track:3gLFXLsjmc2xh9efFIMYra,0.00192,0.594,0.919,0.105,F#,0.379,-6.912,minor,0.0771,150.047,4,0.236,True
+49,Oh My God - Technoboy Dib Dub,Technoboy and Shayla and ,spotify:track:1APAuluB0fEvfLQK46N2af,0.00588,0.746,0.924,0.0252,B,0.474,-6.881,minor,0.0766,150.006,4,0.742,True
+50,Unite (Defqon.1 Anthem 2011) - Original Mix,Noisecontrollers and ,spotify:track:1yI3Brey1oRQ7ZuNRlGxUA,0.0121,0.519,0.896,0.21,F,0.35,-6.46,minor,0.059,150.108,4,0.404,True
+51,Trapped - Solaio Mix,Dark Oscillators and ,spotify:track:5f4c44v0YZrxe0UWSN0lC1,0.0137,0.792,0.631,0.376,F#,0.351,-7.277,minor,0.108,149.983,4,0.0482,True
+52,Imaginary,Brennan Heart and Jonathan Mendelsohn and ,spotify:track:2TgDK4TC5KsywTYafAE4Gd,0.298,0.552,0.594,6.17e-05,D,0.262,-6.449,major,0.0306,149.907,4,0.287,True
+53,Like a Slut - Extended Mix,Activator and ,spotify:track:12ZuZqfI8tWdP4v9OcuFQF,0.00356,0.808,0.986,0.563,D,0.0261,-4.963,major,0.276,144.97,4,0.136,True
+54,In The End - Dailucia Remix,Brennan Heart and Blademasterz and Dailucia and ,spotify:track:3Dp1Q6pygiVljbx832wT5X,0.0139,0.327,0.963,0.0,C#,0.187,-2.877,major,0.065,150.036,4,0.0787,True
+55,Rock Civilization - Original Mix,Headhunterz and ,spotify:track:43LQCjsx42u7PJIcUyvTsf,0.0361,0.707,0.995,0.75,A,0.852,-6.367,minor,0.191,149.999,4,0.0783,True
+56,Absolute Power,Broken Minds and Anime and ,spotify:track:40AyUGD8GSIl8xfNmfc8za,0.0036,0.566,0.937,0.196,C#,0.237,-2.632,major,0.271,175.001,4,0.238,True
+57,Not for Me,Unicorn On Ketamine and ,spotify:track:3AcPubndpYkO1fFvzU1OaM,0.0293,0.69,0.974,0.00771,F,0.19,-0.952,minor,0.0812,99.99,4,0.312,True
+58,To The Death (Official Thunderdome 2019 Anthem),Dither and ,spotify:track:3BwuZfXDEB70Y0BuzFpwLQ,0.241,0.558,0.989,0.000151,C#,0.904,-0.378,major,0.419,180.112,4,0.0431,True
+59,Be Careful With Me,Yoorc and ,spotify:track:5Te4COomqQquePN2KjJsh5,0.0866,0.674,0.965,0.0547,G,0.123,-2.574,major,0.0564,165.029,4,0.277,True
+60,hold on tight,pikaboi and ,spotify:track:79z0zLpXdWk2VyTrF0KPr0,0.00797,0.489,0.981,0.145,C,0.0956,-4.429,major,0.0526,99.985,4,0.225,True
+61,Hadokoa,Neko and Maissouille and ,spotify:track:0G52vPejbZPiZKiOOrzflC,0.166,0.565,0.981,0.0428,G,0.756,-1.099,major,0.055,92.447,4,0.381,True
+62,Fine Night,Anime and ,spotify:track:0EUUAfLyEWjU1oHdLmU1qL,0.0888,0.288,0.988,0.000718,F,0.179,-0.645,major,0.129,100.019,1,0.0376,True
+63,Rave Machine,Dither and ,spotify:track:7quuryt7S7Ix5Xr51GC3Ng,0.062,0.641,0.968,0.134,G#,0.312,-0.539,major,0.116,95.003,4,0.193,True
+64,Partystarter,Mizz Behave and ,spotify:track:0hQ9LHBzkUThXYZ3vSHl6X,0.000864,0.565,0.985,0.000609,E,0.237,-0.642,minor,0.0416,100.004,4,0.0799,True
+65,Gabber Madness,Hysta and ,spotify:track:6p469MShv1FYZNXZ5kMqNb,0.0337,0.701,0.997,0.115,E,0.1,-0.13,minor,0.161,104.998,4,0.0827,True
+66,Do You Wanna Ketamine [feat. MBK] - Angerkill Remix,Unicorn On Ketamine and MBK and Angerkill and ,spotify:track:2pvg4dzshxZcDvNxwOwecC,0.0117,0.71,0.999,0.0559,F,0.382,-3.863,minor,0.294,120.029,4,0.0498,True
+67,ONYON,GPF and Dj Onion and The Greazy Elite and ,spotify:track:21hfiYaPDN8E14Trp4qTF3,0.0607,0.584,0.994,0.00037,B,0.323,3.16,minor,0.126,134.933,4,0.107,True
+68,Sugar Beatz,Mizz Behave and Miss Enemy and ,spotify:track:6owYb925ghJ1g0UCbMHGek,0.135,0.592,0.959,0.000103,C#,0.138,-0.292,major,0.143,107.529,4,0.208,True
+69,Bass Slut,Cryogenic and ,spotify:track:1JFP27S327rhv92cqca98W,0.000232,0.526,0.968,0.0,F#,0.372,-1.285,major,0.14,115.096,4,0.311,True
+70,T3CHN0,Dither and ,spotify:track:1606yi0aEK8bUnsWhQd2VW,0.0445,0.644,0.987,0.000678,G,0.0919,0.525,major,0.422,170.076,4,0.299,True
+71,Inner Demons,Namara and ,spotify:track:3QoX0DdIugoIPqR9S0rrBa,0.0132,0.576,0.963,0.00187,D,0.383,-1.355,major,0.123,95.001,4,0.109,True
+72,Dance Like A Bull - MBK Refix,MBK and ,spotify:track:5QkSN4ogveVtDp592HbPvR,0.000465,0.585,0.989,0.000236,D#,0.102,1.597,minor,0.0505,114.985,4,0.163,True
+73,Greazed Up,GPF and Caine and Mizz Behave and ,spotify:track:7lU1SLFBdQL55eUfbA5ApY,0.00359,0.616,0.993,0.43,C#,0.224,-0.562,major,0.101,115.026,4,0.161,True
+74,Raggen,D-Fence and Mr. Hyde and ,spotify:track:3ecqZYqkxy1XML5BVYWEvh,0.101,0.438,0.98,0.00526,G,0.572,-2.215,major,0.171,103.751,4,0.0411,True
+75,Description of Evil,Lil Texas and ,spotify:track:6qOzCs4rQkJdejTKnihUbL,0.0431,0.624,0.998,0.196,D,0.587,1.55,major,0.15,102.536,4,0.108,True
+76,Die Alone,Anime and Broken Minds and ,spotify:track:5TnngBGEvrYJJtOG5cv1V8,0.0682,0.339,0.95,3.81e-06,F#,0.103,-2.805,minor,0.448,185.091,4,0.0951,True
+77,You Treat Me Just Like,Deathroar and ,spotify:track:1AyRx9YOlSyPwVkt5I8O8M,0.00209,0.587,0.949,0.00163,A#,0.171,-3.901,minor,0.0516,107.955,4,0.248,True
+78,Shadows,Evil Activities and Korsakoff and ,spotify:track:186c1fR5102kI9qaP5sDiR,0.00447,0.333,0.985,0.0,F#,0.241,-1.844,minor,0.471,180.092,4,0.0583,True
+79,Demolition,The Satan and ,spotify:track:774EtJyM2EvI4LlF6OEwOO,0.117,0.649,0.999,0.000503,G,0.361,1.643,major,0.319,95.032,3,0.116,True
+80,Rainbow In The Sky - Radio Edit,Paul Elstak and ,spotify:track:2MlqP1HzhitHfFXPXKumdB,0.000145,0.464,0.936,0.00516,C#,0.305,-6.864,minor,0.0349,167.983,4,0.294,True
+81,Hey Mambo,Dr. Peacock and Paul Elstak and ,spotify:track:7eFHzgSCf2HLQHTYiBb9Io,0.0267,0.707,0.996,0.0281,F,0.0787,0.551,major,0.164,100.062,4,0.192,True
+82,Trip to Ireland,Dr. Peacock and ,spotify:track:6u8pHCsBSo1rahkWXUxPzW,0.198,0.753,0.991,0.761,A,0.115,-1.599,major,0.107,99.999,4,0.448,True
+83,MTFCKING LOUD,D-Fence and ,spotify:track:6070qgWyBUG1DErdJKydFO,0.236,0.606,0.979,0.0,A,0.531,-0.413,major,0.286,94.973,4,0.207,True
+84,Radical,Angerfist and ,spotify:track:0MSPcmJNNm5P3L8iLr75KI,0.0103,0.508,0.865,0.677,C#,0.0738,-6.433,major,0.0909,170.028,4,0.215,True
+85,Hardcore Machine,Dj Mad Dog and Anime and ,spotify:track:6H9WReRiNdYnqbV3fnMCxT,0.000984,0.529,0.962,0.000109,A,0.886,-5.776,minor,0.24,174.971,4,0.162,True
+86,Unforgettable - Radical Redemption Remix,Miss K8 and ,spotify:track:3LRcfVowC2P67GHOAKGN9N,0.0232,0.587,0.924,4.34e-06,F#,0.126,-3.645,major,0.0678,157.01,4,0.324,True
+87,Incoming,Angerfist and ,spotify:track:2LdxoC3NmmJDHPaVxUuDbo,0.022,0.535,0.971,0.156,B,0.282,-3.323,minor,0.0544,88.512,4,0.4,True
+88,Old Skool,Activator and ,spotify:track:6Pgzu6gCUC4n1fnKqaCelt,0.00128,0.795,0.959,0.348,A,0.122,-5.706,major,0.235,144.977,4,0.235,True
+89,Bang,Activator and ,spotify:track:7rCptYeMmPr8iU0TLXh95a,0.00612,0.712,0.985,0.0092,G#,0.0926,-2.768,major,0.148,145.021,4,0.411,True
+90,Santiago,Angerfist and Miss K8 and ,spotify:track:7G3AhazF9TKQuF45f3qwUe,0.00608,0.422,0.95,0.518,A#,0.0681,-5.805,minor,0.103,175.026,4,0.329,True
+91,Hardcore Generation,Miss K8 and ,spotify:track:1qwIljGhhF0xQ0q46Rbjhh,0.19,0.562,0.908,0.00019,C,0.292,-2.844,major,0.0924,94.988,4,0.249,True
+92,No Good (Start the Dance),The Prodigy and ,spotify:track:2Jb5Qyy37fdGOTJ6iPYq1y,0.00662,0.642,0.996,0.75,F,0.181,-4.343,minor,0.0557,144.993,4,0.161,True
+93,Breathe,Ophidian and D-Passion and ,spotify:track:5YZqFM3pBhxU1PLEGSaLKh,4.27e-05,0.434,0.987,0.733,A,0.0525,-4.897,minor,0.187,169.919,4,0.273,True
+94,Wixplosion,WIXAPOL and ,spotify:track:1lPEbr8WMnLct17llmOfTj,0.158,0.667,0.715,0.26,B,0.479,-9.468,minor,0.134,156.515,4,0.159,True
+95,Butterfly VIP,Ophidian and ,spotify:track:4zPCcVQAj1wg3Gyjj9cvLn,0.151,0.503,0.949,0.941,D,0.134,-8.727,minor,0.103,160.007,4,0.038,True
+96,Come Get Some,Dj Mad Dog and Anime and ,spotify:track:5nhNM2SLL9OhIPDWwPfWPg,0.0127,0.489,0.96,0.433,F#,0.223,-2.915,major,0.372,185.103,4,0.211,True
+97,Drop It - Happy Mix,3 Steps Ahead and ,spotify:track:56jBdni6RfAgFAms89MPjd,0.261,0.585,0.916,0.738,C#,0.0936,-6.791,minor,0.0701,188.983,4,0.688,True
+98,The Phoenix,Ophidian and ,spotify:track:0VhkCfuDF6y6B7U2OLYm3E,0.0359,0.461,0.961,0.0404,C#,0.19,-1.616,major,0.444,177.996,4,0.321,True
+99,Sky High - Technoboy Edit,Zany and Technoboy and ,spotify:track:5EAZ3KGmqAkkq6sYAk0640,0.000667,0.657,0.778,0.648,D,0.133,-6.548,major,0.0548,142.057,4,0.473,True
+100,You Dont Belong,Dj Mad Dog and ,spotify:track:2CUbECWhafpD5CHq3XUZVY,6.39e-05,0.49,0.874,0.864,F#,0.0977,-4.616,minor,0.0675,145.011,4,0.2,True
+101,Scream,Radical Redemption and Miss K8 and Nolz and ,spotify:track:58DNjEJ6fLwQSnQT49JKqP,0.0114,0.437,0.985,0.00691,A,0.32,-2.095,minor,0.149,174.952,4,0.0548,True
+102,JEBAX,EURODANEK and ,spotify:track:6fav1enzzXmFVptAhe2ADf,0.0416,0.724,0.745,0.877,C,0.0727,-9.519,major,0.0574,137.994,4,0.526,True
+103,The Reckoning,Thorax and ,spotify:track:3nEitEJeiT9FmrKkvRc7Nr,0.0014,0.445,0.92,0.0,C#,0.249,-3.645,major,0.208,169.948,4,0.0817,True
+104,Bass in Your Face - 2021 Kick Edit,Matzic and ,spotify:track:6uSRuOz68PC7u1AQQJr8ZL,0.0138,0.539,0.976,0.0669,F,0.265,-2.099,minor,0.102,159.907,4,0.385,True
+105,WORKI W TLUM - REMIX ZAJEBI$TY,WIXAPOL and OIO and ,spotify:track:6rZHbEGnKjdKDGpaqTRteL,0.349,0.673,0.858,0.0,B,0.769,-2.236,minor,0.221,74.939,4,0.804,True
+106,HEYYYY SOKOLY - WIXAPOL ANTHEM,WIXAPOL and ,spotify:track:1dbAcQiabUNa3PoHVKkOBD,0.214,0.44,0.895,0.884,C,0.715,-1.795,minor,0.148,180.646,4,0.329,True
+107,PATOINTELIGENCJA - REMIX ZAJEBI$TY,WIXAPOL and Mata and ,spotify:track:2JERSB3pXp8SsH7CFr7V9D,0.0507,0.605,0.732,0.023,F#,0.423,-5.839,minor,0.382,156.969,4,0.36,True
+108,SPRENRZONE KORALE - SINLOOS EDIT,WIXAPOL and ZWIREK and ,spotify:track:1Ixyv0ot8OYVebFwbzSwlR,0.0289,0.638,0.947,0.0275,F,0.504,-2.554,minor,0.227,170.262,4,0.467,True
+109,JTM MORDEAUX,WIXAPOL and ,spotify:track:34LyRUXVoK9cgJZeHOXVuR,0.00042,0.549,0.988,0.631,C,0.954,-5.257,major,0.559,181.917,4,0.0386,True
+110,Mosh Pit,Timmy Trumpet and Dimatik and Overdrive and ,spotify:track:6fcUcPVAOkJ83JBDDaWNuo,0.00154,0.372,0.973,0.000956,E,0.36,-5.125,minor,0.166,156.142,4,0.192,True
+111,Io sono vivo,The Stunned Guys and ,spotify:track:3Xzws8WS8lkolIxSalOycx,0.0918,0.48,0.997,0.238,F,0.68,-3.73,major,0.0773,182.01,4,0.459,True
+112,Worst Nightmare,Caine and ,spotify:track:3KSoi1xRwTwygCCtcsTMME,0.0526,0.393,0.967,7.38e-05,E,0.354,-1.555,minor,0.365,154.972,4,0.232,True
+113,Holy Gucci - Clair Remix,Krl Mx and Clair and ,spotify:track:3GehDReyP4wkozHESnPcpT,3.57e-05,0.472,0.912,0.92,F#,0.0948,-7.913,major,0.0456,162.993,4,0.488,True
+114,Welcome To The Thunderdome (Official Thunderdome 2021 Anthem),N-Vitral and ,spotify:track:40sVUPMUAWnrCdFCHSoF3W,0.133,0.619,0.985,0.00187,C#,0.353,-1.429,major,0.209,97.489,4,0.163,True
+115,Burned On Face - Original mix,Imeon (IT) and ,spotify:track:6fDp9taPWSYnrpOsLE4BCy,0.000243,0.447,0.963,0.972,C#,0.385,-6.412,minor,0.104,160.041,4,0.0288,True
+116,Up & Down - Original Mix,Marc Acardipane and ,spotify:track:232y3gQJDH0agYQv4ikfZI,0.00188,0.516,0.996,0.812,C#,0.236,-2.575,minor,0.138,159.84,4,0.478,True
+117,Young Birds,DJ Weirdo and Dr. Phil Omanski and ,spotify:track:3T9y5VSvioiIruKcHBjivJ,0.00496,0.659,0.895,0.0459,A#,0.109,-4.493,minor,0.0631,178.816,4,0.0375,True
+118,Drop It,3 Steps Ahead and ,spotify:track:0IFOeCOe8MsujWzKf6jydH,0.024,0.498,0.878,0.682,B,0.345,-4.802,minor,0.0537,94.454,4,0.0377,True
+119,In The Name Of Love,3 Steps Ahead and ,spotify:track:4oecLtN0CwH1MSTVJ4WDxN,0.00387,0.695,0.676,0.901,C,0.117,-7.881,major,0.0565,104.968,4,0.0953,True
+120,Always Hardcore - Extended radio mix,Bodylotion and ,spotify:track:0PqgffkD3LrwUps8uIYKzO,0.0446,0.506,0.948,0.0862,A#,0.392,-8.397,minor,0.0471,173.141,4,0.63,True
+121,I Will Have That Power,Neophyte and ,spotify:track:5FZSLwsiGyLyCk84mC4fiP,0.347,0.725,0.892,0.0154,G,0.177,-13.915,major,0.286,170.06,4,0.186,True
+122,Chronic Disorder,Menace II Society and ,spotify:track:2yL4IaKAEXmNHhnw3yJnJU,0.144,0.68,0.964,0.000129,A#,0.13,-0.445,minor,0.179,151.95,4,0.108,True
+123,Bad Dreams,DJ Isaac and ,spotify:track:1ZgXY30tAArpzHHolyFglh,0.0107,0.752,0.798,0.81,F#,0.0516,-8.954,major,0.0729,174.081,4,0.0908,True
+124,Trepidation,Stan Christ and ,spotify:track:2xDPYggKsvXFblelNnCnu4,0.0623,0.674,0.961,0.895,C,0.0844,-10.188,minor,0.0624,150.045,4,0.124,True
+125,Back To The Oldskool,The Oppressor and ,spotify:track:4YycXbCwNRgntzYJhf7hXX,0.012,0.608,0.997,0.119,F#,0.315,-1.179,major,0.1,110.008,4,0.491,True
+126,Braincracking,Neophyte and ,spotify:track:1sgKzIhBr6Sd24bBziNHOy,0.000597,0.55,0.865,0.241,G,0.869,-8.509,minor,0.0937,162.985,4,0.286,True
+127,Heute Nacht,Kiki Solvej and ,spotify:track:2nswx1ih0QgG0j1q0HlVWK,0.00563,0.688,0.985,0.725,G,0.132,-4.049,major,0.096,142.001,4,0.492,True
+128,Around the World (La la La),Refuzion and ,spotify:track:1WF4RTvSeDTOQBD9epYwEi,0.0396,0.602,0.948,1.43e-06,A,0.186,-3.372,minor,0.0502,149.933,4,0.812,True
+129,Moonlight,Kronos and Adaro and PANE and ,spotify:track:3Ujppm3XdNHMvCSFgKKKng,0.0922,0.365,0.963,0.00012,A#,0.107,-3.511,minor,0.402,155.052,4,0.132,True
+130,Khonda,Russian Village Boys and ,spotify:track:3ZKvlmyVObGB5mSLV6hzdU,0.0142,0.671,0.882,0.000237,D,0.534,-7.234,major,0.256,170.072,4,0.362,True
+131,Glimmer of Hope,Tevvez and ,spotify:track:7fexuK3DlpbjESFLcZ0x72,0.147,0.385,0.576,0.94,E,0.161,-8.443,minor,0.0286,145.068,4,0.0374,True
+132,Lessons In Love - Headhunterz Remix,Kaskade and Neon Trees and ,spotify:track:2HYcB1uWu7gvcNl0xJvvfM,0.0755,0.447,0.773,0.0273,G,0.621,-6.374,major,0.0456,150.012,4,0.47,True
+133,Lets Get Pillz - Greazy Puzzy Fuckerz Lets Get Fucks Remix,Caine and GPF and ,spotify:track:052zU2PMDvFo9MPNYYL8bE,0.177,0.764,0.981,0.000204,G#,0.102,-2.548,major,0.131,105.002,4,0.105,True
+134,Laddy-Daddy-Daddy,GPF and J1zzy and ,spotify:track:2ziL67NJnSNEcTiZDAOrq0,0.00195,0.6,0.987,0.00391,A#,0.283,1.563,minor,0.12,100.024,4,0.247,True
+135,Harmony of Fuck,GPF and ,spotify:track:3WVUA6Xbiolh1H9THVHpIE,0.0138,0.726,0.984,0.00431,B,0.368,1.573,minor,0.0826,99.979,4,0.429,True
+136,Stripper,GPF and ,spotify:track:0eFbL8aL20RTaZhpulYZck,0.0548,0.812,0.977,2.59e-06,A,0.348,1.634,minor,0.0659,109.954,4,0.334,True
+137,Cummin on Ur Face,GPF and MC Jeff and ,spotify:track:2dmm1os6bkMtHsn8Ei7PMI,0.0139,0.666,0.958,0.000129,A,0.105,-2.866,major,0.0807,100.036,4,0.0631,True
+138,All Wanna Fuck,Malice and GPF and ,spotify:track:14U1KI13eZ45kSrWj5NydT,0.251,0.862,0.967,0.0202,E,0.308,-0.438,minor,0.318,100.01,4,0.116,True
+139,Get Dissed,Deadly Guns and ,spotify:track:08fnUvUr7q26lvOfln3TjQ,0.0486,0.671,0.941,0.0008,D,0.432,-3.337,major,0.0519,99.965,4,0.255,True
+140,Harder State Of Mind,D-Block & S-te-Fan and DJ Isaac and ,spotify:track:3QeEf7TMugwZkmn0hPmXio,0.0044,0.515,0.94,1.06e-05,A,0.23,-2.452,minor,0.0478,150.051,4,0.284,True
+141,Darkest Hour (The Clock),D-Block & S-te-Fan and Sub Zero Project and ,spotify:track:5DWoPJxISs9VMRCJBzujB6,0.033,0.535,0.877,0.000167,D#,0.144,-2.181,minor,0.0465,150.022,4,0.115,True
+142,The Lost Soul - Original Mix,Headhunterz and ,spotify:track:39sAtdVdpAnyFLrTtd474T,0.0101,0.731,0.872,0.341,G,0.0557,-4.834,major,0.075,148.019,4,0.0648,True
+143,Speakafreak - Original Mix,Headhunterz and ,spotify:track:5ql1K1b1ZGV47KRxLJnZh5,0.0303,0.664,0.957,0.705,D#,0.0916,-6.124,major,0.121,148.013,4,0.11,True
+144,Digiwave - Original Mix,Headhunterz and ,spotify:track:6LQF7gKrIHVvlynanLChfz,0.00759,0.581,0.954,0.116,B,0.0612,-8.256,major,0.147,150.031,4,0.0604,True
+145,The Sacrifice - Original Mix,Headhunterz and ,spotify:track:1U1CD3rfdx9KY1go1BjxRI,0.118,0.649,0.852,0.461,D,0.249,-4.684,major,0.102,141.971,4,0.0678,True
+146,Black 2008,Showtek and ,spotify:track:6TY2iH2m146UQPtHH8QSdi,0.0142,0.579,0.931,0.0244,G,0.0594,-4.439,major,0.229,146.089,4,0.334,True
+147,The Power of the Mind (Qlimax Anthem 2007),Headhunterz and ,spotify:track:5sdQto0Jziq716njJr31XR,0.0326,0.58,0.942,0.0323,A,0.221,-9.915,major,0.157,149.963,4,0.113,True
+148,Doomed - Original Mix,Headhunterz and ,spotify:track:4VAo7g9rd5lwanMkqtlbp5,0.0706,0.639,0.961,0.208,A#,0.0567,-3.849,major,0.196,150.015,4,0.482,True
+149,Rage - A Hardstyle Song,Technoboy and ,spotify:track:5VJJ5BaZ5o0CNxbE2zhV3F,0.00128,0.396,0.791,0.578,F,0.0532,-4.819,major,0.0844,150.011,4,0.0438,True
+150,Life Beyond Earth - Original Mix,Headhunterz and Wildstylez and Project One and ,spotify:track:4cqoijw3bSOuXnnLBJgJMU,0.000489,0.696,0.885,0.377,C#,0.0303,-7.622,major,0.156,150.013,4,0.238,True
+151,Still Standin,Headhunterz and ,spotify:track:3Yq7MZQIwRycwfoRLn74HP,0.117,0.429,0.935,0.0117,A,0.169,-4.41,major,0.197,149.856,4,0.188,True
+152,Revival - Original,Brennan Heart and ,spotify:track:77JtIfvS0SU7HhTuRdn6Co,0.0016,0.703,0.581,0.769,C,0.0692,-6.728,minor,0.0609,145.049,4,0.145,True
+153,Remember  Remember [Mix Cut] - 2009 Re-Edit,Brennan Heart and ,spotify:track:49Gjg8xCUbjQLzy5sCj1OU,0.475,0.266,0.866,0.933,A#,0.116,-6.559,minor,0.0729,151.777,4,0.0368,True
+154,We Come And We Go - Original Mix,Brennan Heart and ,spotify:track:2otCM0V7LxA5mDPwFwLKdf,0.022,0.653,0.82,0.551,B,0.24,-7.26,minor,0.0857,149.959,4,0.429,True
+155,Nobody Is Perfect - Original Threesome Mix,Dark Oscillators and ,spotify:track:2Pg6mLt5WVDzeT5QcMwkx7,0.000549,0.666,0.853,0.452,G,0.0927,-6.484,major,0.0835,145.01,4,0.328,True
+156,Solid Stigma,Angerfist and ,spotify:track:7s110BVIPaRVSvmUCj0JPD,0.193,0.372,0.988,0.00291,C#,0.0731,-0.897,major,0.411,94.983,4,0.314,True
+157,R3VOLUTION,Angerfist and ,spotify:track:4gHT4yMyWS60xpsSQZTvMG,0.00577,0.422,0.979,0.0,D,0.107,-2.085,major,0.194,180.09,3,0.414,True
+158,Impact,Angerfist and Miss K8 and ,spotify:track:5h7Rzf4jqbuwWDkJdH09u4,0.146,0.414,0.943,2.25e-06,A#,0.355,-2.503,minor,0.138,179.828,4,0.205,True
+159,The Box,Dj Mad Dog and ,spotify:track:6mJAXiGWXsPuCdTe6pBLAP,0.000137,0.587,0.994,0.0263,A,0.143,-2.146,major,0.171,161.993,4,0.227,True
+160,Nothing Is Real,Angerfist and Ophidian and ,spotify:track:7oqVEaz78RBY0EL6jRCK4z,0.2,0.379,0.882,0.0417,C#,0.0893,-3.74,major,0.0661,175.002,4,0.142,True
+161,Laughing Loud,Dj Mad Dog and ,spotify:track:5eZtRHcLlvwOkbVPEH8r8p,0.00564,0.385,0.99,0.11,A,0.113,-1.179,major,0.331,179.985,4,0.0744,True
+162,Ama shishi,Dj Mad Dog and Anime and ,spotify:track:1osB0eZ2E32bgT38L4UG4C,0.0271,0.419,0.984,0.248,C#,0.689,-2.134,major,0.229,174.012,4,0.0648,True
+163,Bass For Your Face,Anime and ,spotify:track:6uYcgdQrzQIAashLhdcP8W,0.00144,0.511,0.966,0.725,G#,0.0599,-3.772,minor,0.0663,172.988,4,0.316,True
+164,Terrordome #TiH,Anime and ,spotify:track:3If52Pnji3mynuGwIb5C0Q,0.00155,0.531,0.951,0.485,G,0.201,-2.91,major,0.265,173.108,4,0.197,True
+165,Reset,Dj Mad Dog and ,spotify:track:3IZEm5D9dfH8wbrzOT6t5S,0.00257,0.64,0.96,0.131,B,0.226,-2.082,major,0.123,100.05,4,0.232,True
+166,The Missing Channel,Dj Mad Dog and ,spotify:track:1AbbpQopKWBZvapJPTnhrC,0.0617,0.63,0.994,0.892,G#,0.105,-1.711,major,0.474,167.989,4,0.144,True
+167,Reprogrammer,Angerfist and Mike Redman and ,spotify:track:49aL1MwS6SfZnm2EkRVuEe,0.0441,0.499,0.943,2.93e-05,A,0.372,-1.999,major,0.326,180.02,4,0.45,True
+168,Madrid,Angerfist and Miss K8 and ,spotify:track:48h5Nifz3jGhdSvaIXrazl,0.135,0.406,0.973,1.56e-06,C#,0.338,-2.516,major,0.327,179.928,4,0.159,True
+169,Mighty Methods,Angerfist and ,spotify:track:5hcG1iX8TtSy6TEoFTvnoo,0.00921,0.464,0.989,7.92e-05,D,0.0962,-0.641,major,0.325,180.102,4,0.316,True
+170,Thats The Sound - Radio Edit,Dj Mad Dog and ,spotify:track:7wDEiob7HHr0EYwV24MH78,0.357,0.514,0.998,0.00145,G,0.331,-1.643,major,0.15,173.968,4,0.0369,True
+171,Not my tempo,Dj Mad Dog and ,spotify:track:2lmRy0gQIxniUnuinzRuzb,0.026,0.457,0.947,0.0627,G,0.0909,-3.152,major,0.192,174.064,4,0.0656,True
+172,Obey All Orders,Dj Mad Dog and ,spotify:track:0aJBEmuUquEI4QEoT6cOSd,0.104,0.442,0.932,0.000882,B,0.115,-0.611,minor,0.424,179.907,4,0.099,True
+173,Where The Sun Never Shines,Dj Mad Dog and ,spotify:track:3oCHGUWBnYbOYvtdcCSZPw,0.0177,0.311,0.969,0.599,B,0.115,-1.737,minor,0.153,185.131,4,0.238,True
+174,Breathless,Miss K8 and ,spotify:track:3WmY4jnCli4UTvIB5yeKMJ,0.0391,0.48,0.944,0.368,F#,0.0989,-5.244,minor,0.136,170.013,4,0.279,True
+175,Dark Angel,Thorax and ,spotify:track:6sQX7LLVeP69pLDvxSS2XF,0.19,0.536,0.972,0.0391,C,0.241,-3.573,major,0.233,159.956,4,0.128,True
+176,Till We Die!,Tears Of Fury and Expulze and ,spotify:track:7MvI3ItIO4QvKZiV2QCpPW,0.00013,0.454,0.991,0.819,B,0.433,-0.785,minor,0.0816,91.526,4,0.102,True
+177,Warrior Mind,Edwar and ,spotify:track:4sOImFfGywxvwPCecl7xs6,0.127,0.557,0.93,2.17e-06,D,0.0764,-2.518,major,0.313,180.075,3,0.042,True
+178,The Voice Of Mayhem (Official Masters Of Hardcore 2010 Anthem) [Mix Cut] - Original Mix,Outblast and Angerfist and Tha Watcher and ,spotify:track:6KSJMJJm7HxUTS31dOfd8S,0.00968,0.273,0.972,0.132,A,0.435,-3.713,minor,0.385,177.314,4,0.0785,True
+179,Kingdom Of Hardcore,Unlogix and ,spotify:track:0gYqvhRx1Mg5qLmleS0t1u,0.261,0.352,0.769,0.0784,G,0.0985,-6.29,major,0.0991,174.622,4,0.0779,True
+180,Dark Conclusions,GridKiller and Nosferatu and ,spotify:track:63kTxMef0qnu0iDoxfUW5s,0.034,0.438,0.996,9.78e-05,G,0.445,-0.418,major,0.218,184.901,3,0.117,True
+181,Infragment Groapa,NSD and ,spotify:track:4tQUOoLaxSD4vQHb1hT0UP,0.183,0.534,0.97,1.22e-05,G,0.119,-7.018,major,0.118,125.055,4,0.068,True
+182,Kokeen - Angerzam Remix,Furyan and Angerzam and ,spotify:track:3x2FGjk9lbHzWoyaUHEs6u,7.36e-05,0.553,0.922,0.00429,G,0.0304,-3.332,major,0.106,124.958,4,0.0877,True
+183,Moshpit,Scarphase and LunaKorpz and ,spotify:track:5HUeF9KgA9IkBCKGCQCKed,0.0191,0.74,0.991,0.00032,C#,0.419,-3.974,major,0.168,109.967,4,0.19,True
+184,Accumulated Filth - Resurrection Remix,Radical Redemption and ,spotify:track:5UnUFplEw4v0kzC2cMzBFO,0.0456,0.435,0.977,0.00563,G#,0.342,-1.661,minor,0.165,154.858,4,0.164,True
+185,Vampire,Radical Redemption and Noisecontrollers and ,spotify:track:0wWX93dRXPYXvXaE9CCVMV,0.0238,0.283,0.933,0.195,F,0.206,-3.481,major,0.184,155.069,3,0.0838,True
+186,20.000 Volts,Yellow Claw and Radical Redemption and ,spotify:track:4eIcq3EC03Ii0eKYrlXJWj,0.0367,0.537,0.957,0.235,C,0.123,-2.541,major,0.114,160.051,4,0.421,True
+187,Hardcore Vibes - South Bound Mix Cut,Dune and ,spotify:track:6yd2M373yAtIg6g7wqLSlT,0.014,0.588,0.69,0.2,E,0.0729,-8.72,minor,0.0396,163.778,4,0.436,True
+188,Surrender,Purple Haze and ,spotify:track:1lGpbCtlYFP0DmbdUNZ5Qy,0.00707,0.64,0.895,0.274,E,0.231,-3.443,minor,0.0712,130.038,4,0.0546,True
+189,White Rabbit,ShortRound and ,spotify:track:5gaQKFFbSMBVRcnT1SJKO4,0.271,0.672,0.687,0.78,B,0.0763,-13.308,major,0.13,129.983,4,0.192,True
+190,Worldspawn,Niki Istrefi and ,spotify:track:4UyqpXNMLdzQYQ2CtZ0VDK,0.0497,0.539,0.903,0.849,C#,0.119,-12.594,major,0.0472,153.039,4,0.0373,True
+191,Still In Hell,Blicz and ,spotify:track:1sFUsde79K9ZATMJbf2GAJ,0.000122,0.458,0.943,0.855,B,0.242,-8.321,major,0.0496,145.988,4,0.339,True
+192,Red Armor,Niki Istrefi and ,spotify:track:4lokwaruKSA4UVymx6JqXc,0.0243,0.829,0.722,0.741,B,0.126,-11.766,minor,0.256,140.02,4,0.429,True
+193,Discombobulate,ANDY M A and ,spotify:track:1CQsMYsorYYZt1Wjrec0ph,0.034,0.653,0.589,0.819,G#,0.106,-12.055,major,0.0591,150.009,4,0.0935,True
+194,Alice,Viper Diva and ,spotify:track:0LjXgnlxCEyOEY1VqRGnzm,3.53e-05,0.57,0.956,0.877,F#,0.118,-6.259,major,0.0377,144.01,4,0.386,True
+195,Make It Loud - Headhunterz Video Edit,Blutonium Boy and Van Snyder and ,spotify:track:4cdqmEUfvyZAomM7654Ttv,0.000823,0.589,0.945,0.811,A,0.0888,-5.377,minor,0.0611,150.024,4,0.44,True
+196,HALO,Sub Zero Project and ,spotify:track:2udt4wACN5ooY9ugyH5leQ,0.00158,0.496,0.753,0.00327,G#,0.407,-6.253,minor,0.0663,150.351,4,0.141,True
+197,Fuckin sweat,The Stunned Guys and DJ Lancinhouse and ,spotify:track:5nsUKCIDitdCRFCPjF0YdD,0.00358,0.674,0.913,0.448,F#,0.33,-9.113,minor,0.0581,89.986,4,0.188,True
+198,I Like It Loud,Marshall Masters and The Ultimate MC and ,spotify:track:7hjbOIcQnULsxDoS2CPmdQ,0.185,0.648,0.952,0.0108,F#,0.807,-4.68,minor,0.164,150.025,4,0.246,True
+199,Snollerboys,Russian Village Boys and ,spotify:track:3zvL68HQ0M6ts3J1SUpOc7,0.00853,0.742,0.907,0.202,G,0.113,-5.105,major,0.064,159.981,4,0.54,True
+200,Bass Down Low,Basswell and ,spotify:track:70EBjAYmr52R6We6oToUrB,0.000156,0.396,0.964,0.479,A#,0.114,-6.776,minor,0.0708,147.506,4,0.396,True
+201,Time Machine,Sub Zero Project and MC Stretch and ,spotify:track:24Yh9vNFl3CXhdiRVRNZ7E,0.000585,0.321,0.953,6.77e-05,C#,0.0813,-5.657,major,0.463,147.776,4,0.14,True
+202,Survivaltocht,Mr. Polska and I am Aisha and ,spotify:track:06qm4jyoqvev0RArtTfqiq,0.00693,0.431,0.861,2.38e-06,D#,0.325,-4.942,minor,0.0491,159.946,4,0.0395,True
+203,Vlammen (Totally summer anthem),Mr. Polska and ,spotify:track:4NgEAM7UwWwFJYrgXaQINm,0.00498,0.659,0.913,0.00399,C#,0.101,-4.236,major,0.0531,150.002,4,0.579,True
+204,Allermooiste Feestje,Yellow Claw and Mr. Polska and Ronnie Flex and ,spotify:track:0tmD6R1uocHMtognFOqUuJ,0.00938,0.604,0.938,5.88e-06,C#,0.243,-2.527,minor,0.0703,150.001,4,0.476,True
+205,Techno (feat. Waka Flocka Flame),Yellow Claw and Diplo and LNY TNZ and Waka Flocka Flame and ,spotify:track:1fnlUPzKQ0DnChntJy08VN,0.00505,0.668,0.911,0.000126,E,0.327,-4.157,minor,0.0593,150.03,4,0.655,True
+206,Riot - 2k20 Remix,T78 and ,spotify:track:4Gj3Aphsia2dIui2f12RSn,0.000294,0.561,0.846,0.21,B,0.329,-5.642,minor,0.18,128.044,4,0.132,True
+207,Forgotten Moments,Lenny Dee and ,spotify:track:3xrOF41CBuZ755toXQP2xN,0.118,0.599,0.752,0.936,D,0.106,-12.346,major,0.0389,95.511,4,0.106,True
+208,Faden,MartinStuff and ,spotify:track:04wudgy4tw1NP3xaH8C26n,0.0713,0.708,0.819,0.915,F#,0.0979,-6.539,major,0.0868,138.031,4,0.111,True
+209,Lullaby,D-Charged and ,spotify:track:5W1188nZ7bUCe8oU3FKLot,0.0202,0.317,0.879,4.15e-05,G#,0.266,-3.642,minor,0.116,160.024,4,0.579,True
+210,Usb Anthem,Andi Teller and ,spotify:track:54fYNJt1aRDnzG7VmRPOCV,7.95e-05,0.716,0.854,0.944,C#,0.054,-6.413,major,0.0757,157.966,4,0.302,True
+211,Dirty Play - Album Edit,Francesco Zeta and Sincera Lady and ,spotify:track:2LXZcLPC2e9DfWHKBOVwJ3,0.00295,0.592,0.997,0.0855,G,0.393,-4.414,major,0.0798,149.995,4,0.239,True
+212,Ready To Go,Korsakoff and ,spotify:track:4O1OlxxiBloEVvYKSZJvcH,0.025,0.505,0.988,0.000149,A,0.133,-1.646,minor,0.0567,97.481,4,0.106,True
+213,In Too Deep (Firelite Remix),Fresh Til Death and MYLKI and Firelite and ,spotify:track:06OuTTgeFW3c5290wJdDJx,0.306,0.713,1.0,0.0171,A,0.389,-1.753,major,0.295,155.026,4,0.197,True
+214,CRYWANK,GPF and ,spotify:track:68238TxIIKFLl86PuGhBbf,0.0961,0.468,0.974,0.000611,F#,0.525,-0.585,minor,0.161,114.849,4,0.226,True
+215,Destiny - Edit,Headhunterz and ,spotify:track:45C5umkVyhwbYuLNYPtJ1O,0.0622,0.567,0.791,0.0117,F,0.112,-4.631,minor,0.0772,149.898,4,0.16,True
+216,Dragonborn part 3 (Oceans Apart),Headhunterz and Sian Evans and ,spotify:track:6c0vdY5EZOx8g95uWcp3uI,0.00356,0.244,0.692,8.75e-06,A,0.12,-6.225,minor,0.0536,149.673,4,0.0993,True
+217,Zombie - Radio Edit,Ran-D and ,spotify:track:65vfhzbHsGalJGbnFHZ6sF,0.0545,0.434,0.87,0.0,E,0.0978,-2.474,minor,0.0612,154.999,4,0.0383,True
+218,Dance With The Devil,Ran-D and D-Sturb and XCEPTION and ,spotify:track:5VCUf3CJuflyaCHf7Fa4mS,0.0261,0.487,0.939,0.0,G#,0.0699,-3.182,minor,0.268,155.06,4,0.156,True
+219,Irreplaceable,Rebelion and Warface and ,spotify:track:6QtWNJCHebWxkFlRxlhDAu,0.0139,0.533,0.956,0.000191,G#,0.0978,-4.588,major,0.118,160.025,4,0.361,True
+220,I Need You,Warface and ,spotify:track:0UPNNVjyXd3mIgO3dNUheM,0.019,0.583,0.906,0.000469,B,0.331,-3.081,minor,0.081,159.975,4,0.355,True
+221,HOAX,Angerfist and Furyan and ,spotify:track:5RyPtEd7Ov0cmuL0MoPQW7,0.178,0.304,0.994,0.000689,G,0.462,-2.838,major,0.482,177.989,4,0.054,True
+222,Pennywise,Angerfist and ,spotify:track:5WhZTVKHE32TysmSwKqVGl,0.492,0.404,0.927,0.046,C,0.344,-3.159,major,0.595,179.999,4,0.0716,True
+223,Knock Knock,Angerfist and ,spotify:track:4fuPFCrsnZ85emMfL52CKp,0.0828,0.34,0.954,0.566,F#,0.173,-3.576,minor,0.11,169.924,3,0.196,True
+224,Primal Instinct,Angerfist and Stereotype and ,spotify:track:21550hsGXll3U7CaVtxlJC,0.00286,0.463,0.987,0.701,A#,0.26,-2.624,minor,0.295,175.059,4,0.0729,True
+225,Mix Up,Angerfist and DJ MADDOG and MISS K8 and ,spotify:track:7pS0HS7v3suVfaJBzj3IRm,0.0178,0.321,0.994,0.00189,C,0.319,-2.208,major,0.295,172.261,4,0.0933,True
+226,Im Nuclear,N-Vitral and Sovereign King and Last Word and ,spotify:track:2IjvcaJ4cDba7fPEPbJZR9,0.228,0.283,0.954,0.0,A#,0.431,-0.991,minor,0.117,75.589,4,0.25,True
+227,Nero - Original Mix,Dark Oscillators and ,spotify:track:6kzDujz017Os1L9QYhkqXf,0.00316,0.647,0.938,0.847,F#,0.28,-5.13,minor,0.122,149.97,4,0.366,True
+228,Tarte a la myrtille,Le Wanski and ,spotify:track:5OZyjGnYcuGs81s4vI2DFU,0.00172,0.668,0.682,0.708,A#,0.0855,-7.661,minor,0.0725,170.006,4,0.384,True
+229,Est-Ce Que Tu Veux Un Ballon ?,Le Wanski and ,spotify:track:412XkmDm1PiHl7OrFT7jqm,0.179,0.66,0.838,0.927,F#,0.0933,-7.822,minor,0.0567,185.022,4,0.0373,True
+230,La Couleur Du Son,Le Wanski and ,spotify:track:2SYExJVTHs6BFb4bz6XA5A,0.135,0.595,0.925,0.754,G,0.0985,-8.024,major,0.0513,95.011,4,0.305,True
+231,I Wanna Be A Hippy,Technohead and ,spotify:track:3NVfe7Iqz2mk5hqJSGPVNs,0.131,0.702,0.947,0.63,G#,0.112,-4.032,major,0.0537,177.383,4,0.417,True
+232,Exploration Of Space,Cosmic Gate and ,spotify:track:3SBvSdQhQiC0Z07A9Be02F,0.0269,0.632,0.912,0.684,A,0.0654,-7.586,minor,0.0365,138.035,4,0.323,True
+233,Papa,Russian Village Boys and ,spotify:track:7BiQgkyDJqky0FDEJOPGo2,0.0332,0.859,0.812,0.00751,B,0.302,-7.627,minor,0.268,160.036,4,0.676,True
+234,In the Face,YGNOR and ,spotify:track:6u8JbhePv5IbXZeoRpbSFP,0.145,0.584,0.869,0.761,G,0.115,-10.969,major,0.0445,151.985,4,0.41,True
+235,Sovereign,Synthsoldier and ,spotify:track:40GSkhPzazW2eKTynjMPcg,0.0325,0.637,0.645,0.865,E,0.122,-6.402,minor,0.0663,155.026,4,0.175,True
+236,Rave Now,TNT and DJ Isaac and ,spotify:track:2sVrVKIkrKZ8Vn9k0k3IfR,0.00994,0.666,0.981,0.756,F#,0.314,-3.352,major,0.122,150.017,4,0.0945,True
+237,The Silence In The Room,Broken Minds and Nosferatu and ,spotify:track:2ictqp0qnYpnlWcCTPtJb7,0.0238,0.464,0.97,0.0,D,0.256,-2.544,major,0.208,94.783,4,0.289,True
+238,Bass Journey,Furyan and ,spotify:track:7u6EDhMzNLIEGB2UuvWLeL,0.00277,0.55,0.979,0.0501,F#,0.62,-0.75,minor,0.107,95.048,4,0.0781,True
