@@ -1,0 +1,5 @@
+idx,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,liked
+0,Techno bis zur Hochzeit,Schleini and Schillah and ,spotify:track:5LQzMV9ZiHe4Z83rGsLZUX,0.366,0.618,0.755,0.0224,C#,0.119,-10.678,major,0.0574,163.0,4,0.434,True
+1,Nightmare,Sebastian Groth and Ben Dust and Markus Weigelt and ,spotify:track:2NQGvfgBl5jtkhHB9vVksa,0.00309,0.634,0.997,0.849,E,0.0643,-6.852,major,0.0629,139.994,4,0.502,True
+2,Confucius - Original Mix,Noisecontrollers and ,spotify:track:4vUlQzxCHnueoza9r02Aoa,0.065,0.674,0.903,0.525,F#,0.209,-6.936,minor,0.106,150.008,4,0.568,True
+3,Artificial Intelligence,Hardcore and ,spotify:track:3Bhltrf7gpzOgqeuO6kfOw,0.311,0.475,0.81,0.863,B,0.203,-9.563,minor,0.0403,178.135,4,0.0381,True

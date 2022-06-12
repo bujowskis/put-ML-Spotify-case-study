@@ -156,18 +156,18 @@ if __name__ == "__main__":
     # combined_tracks_data.index.name = 'idx'
     # combined_tracks_data.to_csv('data/combined.csv')
 
-    validation_like_data = make_tracks_data(sp, validation_like_playlist, True)
-    validation_like_data.index.name = 'idx'
-    validation_like_data.to_csv('data/validation_liked.csv')
-
-    validation_dislike_data = make_tracks_data(sp, validation_dislike_playlist, False)
-    validation_dislike_data.index.name = 'idx'
-    validation_dislike_data.to_csv('data/validation_disliked.csv')
-
-    combined_validation_data = pd.concat([validation_like_data, validation_dislike_data])
-    combined_validation_data = combined_validation_data.reset_index(drop=True)
-    combined_validation_data.index.name = 'idx'
-    combined_validation_data.to_csv('data/validation_combined.csv')
+    # validation_like_data = make_tracks_data(sp, validation_like_playlist, True)
+    # validation_like_data.index.name = 'idx'
+    # validation_like_data.to_csv('data/validation_liked.csv')
+    #
+    # validation_dislike_data = make_tracks_data(sp, validation_dislike_playlist, False)
+    # validation_dislike_data.index.name = 'idx'
+    # validation_dislike_data.to_csv('data/validation_disliked.csv')
+    #
+    # combined_validation_data = pd.concat([validation_like_data, validation_dislike_data])
+    # combined_validation_data = combined_validation_data.reset_index(drop=True)
+    # combined_validation_data.index.name = 'idx'
+    # combined_validation_data.to_csv('data/validation_combined.csv')
 
 # ***** *** NOTE - interesting to potentially get into later, but for now
     # aa = sp.audio_analysis(tracks_uri[0])

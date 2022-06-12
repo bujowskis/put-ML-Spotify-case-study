@@ -1,0 +1,66 @@
+idx,name,artists,uri,acousticness,danceability,energy,instrumentalness,key,liveness,loudness,mode,speechiness,tempo,time_signature,valence,liked
+0,Raggatempo,Barber and ,spotify:track:2srUJbpwQ0iKTy0ddpOztJ,0.000579,0.359,0.962,0.0392,F#,0.376,-1.689,minor,0.0719,200.069,4,0.103,False
+1,Acid React - Original Mix,Xenia (UA) and ,spotify:track:3lz3QwIzOu3ImWUJQqDr0I,0.0258,0.613,0.983,0.829,C#,0.0427,-5.071,major,0.0763,131.992,4,0.273,False
+2,Right Now,EFESIAN and ,spotify:track:7vSqCdYJe4lug8jdV3Impc,0.0105,0.684,0.888,0.934,A,0.317,-5.484,minor,0.0342,135.968,4,0.266,False
+3,March Of The LG,Dimatik and BDN and GRN and ,spotify:track:7cUbbqojFIokFmTuybmKPd,0.00382,0.338,0.975,0.784,A#,0.379,-4.843,minor,0.123,160.708,4,0.447,False
+4,Saturday Noise Fever,Micropoint and The Horrorist and ,spotify:track:0oAgGqcPgp30Q82vpe3YYQ,0.156,0.657,0.883,0.678,B,0.11,-5.819,minor,0.0728,145.027,4,0.293,False
+5,Plaguemon,The Motordogs and ,spotify:track:4jwgRvPfMhSh2VUdoi4FTu,0.00396,0.663,0.983,0.0433,D,0.0905,1.234,major,0.0813,100.002,4,0.188,False
+6,Parkzicht,Clouds and ,spotify:track:6aWnrmYebqf3rYpVKETuUH,6.34e-05,0.512,0.879,0.935,B,0.731,-9.349,major,0.0748,140.028,4,0.17,False
+7,Zen,Hyrule War and Bass Prototype and ,spotify:track:2WDs9JeaoADZbtDwAJJBbR,0.00969,0.583,0.989,0.114,F#,0.128,0.384,major,0.0791,100.006,4,0.208,False
+8,Fireball,Vizionn and ,spotify:track:5glzWtGgVnI8TB7hVIygkL,0.00165,0.673,0.968,0.808,G,0.0683,-5.657,major,0.0658,150.025,4,0.361,False
+9,The Reaper,Mani Festo and ,spotify:track:0IE97MhiBnyCBykT4DGqxu,0.0021,0.76,0.871,0.203,D,0.189,-7.044,major,0.0511,139.984,4,0.0929,False
+10,Killer Ginger,TreuHand and ,spotify:track:2SCghrpuF274tiblusAlxx,0.0652,0.684,0.996,0.87,F,0.074,-7.632,major,0.073,138.007,4,0.207,False
+11,Kaunst da Denga - GehLekTek Remix,Franz Fuexe and ,spotify:track:2knAsOgziI8NyZ82usUZUr,0.0967,0.76,0.984,0.842,G,0.106,-6.989,major,0.18,162.009,4,0.395,False
+12,Reaching For The Sky,Noisekicks and Terrordrang and ,spotify:track:62GErSASVDLNAE9h4QRPRf,0.000529,0.444,0.972,0.0138,G,0.476,-2.746,major,0.218,150.034,4,0.207,False
+13,Hardcore Vibes - Radio Edit,Ravers on Dope and ,spotify:track:33XnScQou3GJvmq6XZVNr1,0.00212,0.635,0.906,0.0308,C#,0.395,-7.523,major,0.0395,141.426,4,0.353,False
+14,Shadow,Lokier and ,spotify:track:0DGSgdbANr1APWFQvpIHRg,0.21,0.678,0.742,0.848,F,0.0848,-7.055,minor,0.0389,136.007,4,0.137,False
+15,You Look at Me,Julien Riess and ,spotify:track:05L5ExA33eJEEiuTwXB1up,0.000197,0.723,0.879,0.901,B,0.0936,-7.355,minor,0.061,130.024,4,0.114,False
+16,Stop De Boot,Dimitri K and Act Of Madness and ,spotify:track:5cWATPyeYVfOGc9Wddl8EL,0.0631,0.725,0.87,0.0083,G,0.113,-1.308,major,0.072,100.073,4,0.0941,False
+17,MOON AT COLORADO - CHR1ST3KK EDIT,TEKKISLOVE and ,spotify:track:39G4Lm6YpLKrFwmyphM1D2,0.0128,0.687,0.866,0.849,G#,0.114,-9.041,minor,0.0808,90.007,4,0.266,False
+18,GHS06,In Verruf and ,spotify:track:6NAZEKABDsI4M6urMRiDFH,1.54e-05,0.49,0.99,0.499,B,0.0413,-6.182,minor,0.0855,139.977,4,0.139,False
+19,The Origins,Lem-X and Tha Watcher and ,spotify:track:5zgmwyq75H0sQE6MlqPL4M,0.0396,0.391,0.981,2.55e-06,G,0.261,-2.379,major,0.459,180.066,4,0.177,False
+20,Keihard Naar De Tyfus!,Kasparov and Revolter and Zwaargewicht and ,spotify:track:4kSNCHCIv5mORz0FnDYPRz,0.0625,0.528,0.998,0.000222,C#,0.0991,-2.609,major,0.256,179.983,4,0.0396,False
+21,Toxibombs,Trampsta and Heavy Drop and ,spotify:track:3mO4c7lqY78SjDkWXE4cp3,0.0198,0.607,0.831,0.287,G,0.094,-6.772,major,0.0899,143.052,4,0.532,False
+22,Xearos Box,Trespassed and ,spotify:track:2TJ6iNbQOZ0G5DM9EMm424,0.0271,0.631,0.982,0.881,B,0.524,-1.502,minor,0.0418,105.018,4,0.0766,False
+23,What I Have,Militia and ,spotify:track:3hJGImZ7lzBXGZphSHTsp7,0.000574,0.51,0.993,0.837,C#,0.136,-7.229,minor,0.0632,146.019,4,0.522,False
+24,God Damn Noise - Original Mix,Evil Activities and ,spotify:track:48Ql2NpnnSE5l9RrnIhjBY,0.0917,0.448,0.985,0.0483,C,0.0953,-1.588,major,0.231,177.06,4,0.15,False
+25,Gib Mir Alles - Original Mix,O.B.I. and RWGK and Timo Revna and ,spotify:track:6oLe2vEi4uSK76nSkhqZwu,0.00131,0.594,0.999,0.808,A,0.122,-4.886,minor,0.0805,150.024,4,0.164,False
+26,Dystopian Warfare,Exil der Schatten and ,spotify:track:7gCawQOpIlYMigXWafL1lO,1e-05,0.45,0.878,0.849,F#,0.126,-6.514,minor,0.042,143.992,4,0.0573,False
+27,PARANOIA,NOTYPE and ,spotify:track:47ZM5TILTpMa1maCNGBjkg,0.0138,0.369,0.997,0.000215,G,0.835,-1.067,major,0.5,159.345,4,0.0998,False
+28,Wij Gaan Harder,N-Vitral and Never Surrender and ,spotify:track:6ACGbE2El19XeciwtWsCNJ,0.0978,0.54,0.983,0.0,D,0.26,-1.155,major,0.0934,99.988,4,0.1,False
+29,Kryptonite,Sprinky and Death Faction and ,spotify:track:0pX3jIqtPqGIF1uLmcCAvI,0.00496,0.566,0.996,0.182,A#,0.322,-2.324,minor,0.222,100.202,4,0.073,False
+30,Shock Therapy - Rising Altitude Mix,Splinta and Rising Altitude and ,spotify:track:6L9GtT3ZHrKj4lquUakm9n,0.0811,0.684,0.977,0.796,A#,0.316,-5.359,minor,0.17,141.98,4,0.186,False
+31,Degustation De Basses,El Desperado and ,spotify:track:4OEFEWKjh9DC2fMmiarojk,0.0795,0.763,0.649,0.747,A,0.182,-10.122,major,0.117,155.024,4,0.15,False
+32,Fake Drop,The Sickest Squad and Andy the Core and ,spotify:track:2BDC0Tgu6x812J4qq5ddR3,0.00282,0.482,0.834,0.295,B,0.0712,-4.962,minor,0.234,200.014,4,0.139,False
+33,Ameno - DJ Mad Dog & Unexist Mix,Destructive Tendencies and F. Noize and ,spotify:track:29ixODiWtHll3A3eOk2CvL,0.183,0.653,0.963,0.00756,F#,0.0828,-1.036,minor,0.134,94.985,4,0.0698,False
+34,Mean Machine (Official Supremacy 2017 Anthem) - Destroy Edit,Act of Rage and Nolz and ,spotify:track:19MATQmJgcdIpRJ0zS446g,0.346,0.471,0.96,6.99e-05,F,0.137,-3.385,minor,0.346,154.679,4,0.0606,False
+35,Cooler Than Me,The Dark Horror and Amon and ,spotify:track:1enUWamzGEQ03PgBE9hf3o,0.0563,0.661,0.818,1.26e-05,G,0.0846,-5.09,major,0.344,179.932,4,0.201,False
+36,Oldschool Hardcore,Hbkn and Karate and ,spotify:track:6sycOo2e3iybOh20jUO7lT,3.3e-05,0.626,0.99,0.687,A#,0.165,-2.751,minor,0.1,180.022,4,0.539,False
+37,Bass Till I Die,DRS and D-Fence and Mr. Hyde and ,spotify:track:7i1S0BsAMwAMHUININzqRD,0.0744,0.629,0.998,6.56e-05,A,0.7,0.13,major,0.181,114.96,4,0.0873,False
+38,Bitches & Hos,Da Bootleggers and ,spotify:track:0wHgVAsu8SxuSio5jX7qm6,0.0249,0.696,0.78,0.00352,F,0.0491,-7.598,major,0.0759,145.002,4,0.736,False
+39,Explosions - Album Edit,Vazard and Delete and ,spotify:track:6KZuG1BPer7hzLb5q0DlbT,0.125,0.687,0.986,0.00658,B,0.596,-2.146,minor,0.225,155.06,4,0.338,False
+40,Bopity Boopi,Noize Suppressor and ,spotify:track:3FODhl1eYGeGgaU29ZVvoL,0.00674,0.741,0.996,6.34e-06,G,0.0406,-1.648,major,0.156,100.009,4,0.0709,False
+41,Music Making MF,Manifest Destiny and ,spotify:track:1pN07OKlElaR5oerIY2UhF,0.00945,0.718,0.944,0.142,D,0.92,-2.454,major,0.0568,105.008,4,0.245,False
+42,Last Summer,Rebekah and ,spotify:track:6phXaP28ZIrCuAfBKSnSpc,7.56e-06,0.415,0.759,0.917,E,0.383,-11.102,minor,0.0395,138.006,4,0.0362,False
+43,We Are Legion - Matt Green Remix,Ambassador21 and ,spotify:track:2mV3Y65yxzsUan8WO5Tb0q,0.00781,0.5,1.0,0.355,C#,0.344,0.025,major,0.262,164.99,4,0.0348,False
+44,I Can See You,Mark Albertini and ,spotify:track:2YPuIG6miHL5FqTE2L3o1O,0.00247,0.676,0.857,0.821,C#,0.0994,-6.837,minor,0.0589,132.001,4,0.152,False
+45,Dein Licht,Phosgore and ,spotify:track:7AefxLK3b4OzmuffSdmaw6,0.00796,0.637,0.964,0.364,D#,0.305,-4.79,minor,0.0419,146.006,4,0.0576,False
+46,Burn,Recognise and ,spotify:track:7bYkZf8BQAi7L0ylUgkEcH,0.00422,0.835,0.668,0.797,B,0.1,-6.128,major,0.0431,126.998,4,0.596,False
+47,Cause of Death: Suicide - X-fusion Remix,Suicide Commando and ,spotify:track:2Hs66TBwVLQAt4SHrNCt9I,0.00205,0.582,0.99,0.817,F#,0.15,-3.743,major,0.0564,150.047,4,0.515,False
+48,Kings Never Die - Radio Edit,Unexist and ,spotify:track:50htDUryjqdf749iimknkC,0.00805,0.391,0.99,0.114,F#,0.198,-0.539,minor,0.202,180.003,4,0.0342,False
+49,Bone Breakers,Lulu and ,spotify:track:2ZOtUPzy9rvOr2d689NxQ2,0.0417,0.652,0.908,0.809,G,0.111,-7.607,major,0.093,150.012,4,0.109,False
+50,Power Lust Greed Fame,SWART and ,spotify:track:2Zc7dsfarfVBmeiLPnzIHI,0.0015,0.529,0.973,0.795,G#,0.117,-6.828,major,0.062,141.978,4,0.25,False
+51,12 Inch - Rocco vs. Bass-T Remix,Niels De Vries and Rocco and BASS-T and ,spotify:track:7vQJetkcxR7vetJtGh5Qcf,0.000307,0.738,0.939,0.44,B,0.366,-7.325,major,0.0574,138.006,4,0.657,False
+52,This Is Classic,Francesco Zeta and Lacer and ,spotify:track:2zKYLePsRqzqRAioj89N1B,7.27e-05,0.741,0.977,0.00151,A,0.152,-2.979,minor,0.134,150.063,4,0.0594,False
+53,Emmene Moi Raver Didier (Jan Vercauteren Remix),UNNAMED (UNMD) and Jan Vercauteren and ,spotify:track:190ylZti6Gd4p13DTYPvON,5.15e-05,0.457,0.995,0.865,G,0.354,-7.801,major,0.0454,154.002,4,0.685,False
+54,Harder - Original Mix,AKKI (DE) and ,spotify:track:2sugtdgNTYoD2958skoTXy,0.00014,0.573,0.969,0.694,C,0.12,-7.217,major,0.0498,132.999,4,0.56,False
+55,Viera,Stevie Melani and Sousa and ,spotify:track:121Qef9f4Fa2AKfsBLQWpW,0.0113,0.716,0.808,0.294,D,0.244,-6.786,major,0.0658,140.026,4,0.0391,False
+56,What Is Techno,Rhys Sfyrios and ,spotify:track:7IOeOXBG6E5LYK1MOkffvL,0.127,0.793,0.692,0.632,F#,0.346,-5.444,minor,0.0703,128.0,4,0.0702,False
+57,260486 In Chernobyl,Roentgen Limiter and ,spotify:track:1Qgvs42YsLqHKqTklZmdm2,0.000795,0.689,0.975,0.815,A,0.146,-5.326,major,0.0771,133.989,4,0.444,False
+58,Trave,Jacidorex and ,spotify:track:59JR2hlnq86O81r944cZzs,0.000111,0.694,0.943,0.866,F#,0.0745,-9.185,minor,0.198,145.002,4,0.309,False
+59,Kapitan zur See,DORFTEKK and ,spotify:track:0EAaTBs0cVOdCVsc6DYiX8,0.0849,0.504,0.515,0.841,E,0.105,-15.403,minor,0.0533,79.966,4,0.394,False
+60,Baba Hase  Pt. 1,denizontour and ,spotify:track:5HeSTJsnTy5hz2uYr65ypu,0.00116,0.772,0.812,0.297,G,0.13,-12.35,major,0.163,134.985,4,0.0334,False
+61,Ameno - HydrokicK remix,HydrokicK and ,spotify:track:6hQyuSqIlhZA7lqOcLM4tK,0.584,0.655,0.758,0.509,G#,0.103,-5.692,minor,0.172,150.035,4,0.533,False
+62,Freaking You Out,Partiboi69 and ,spotify:track:7yX6xHubhHZxnY1JDjMG8i,0.00276,0.659,0.897,0.0054,G,0.0242,-7.435,major,0.106,151.966,4,0.658,False
+63,Jack To The Sound - T78 Remix,Thick As Thieves and T78 and ,spotify:track:1SOLmshccKyVepeYqVCfa2,6.36e-05,0.659,0.958,0.842,C#,0.254,-6.574,major,0.0375,131.996,4,0.0331,False
+64,Morn,VINYA and ,spotify:track:6x8uwIwTaus0BRa7mDPeYe,0.0416,0.535,0.977,0.731,A,0.0931,-8.61,minor,0.0715,144.988,4,0.152,False
