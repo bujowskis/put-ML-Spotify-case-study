@@ -1,0 +1,123 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes -D
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                          Class
+Attribute                  True  False
+                         (0.57) (0.43)
+=======================================
+acousticness
+  'All'                    240.0  182.0
+  [total]                  240.0  182.0
+
+danceability
+  '(-inf-0.6655]'          181.0  172.0
+  '(0.6655-inf)'            60.0   11.0
+  [total]                  241.0  183.0
+
+energy
+  'All'                    240.0  182.0
+  [total]                  240.0  182.0
+
+instrumentalness
+  '(-inf-0.000102]'         43.0   79.0
+  '(0.000102-inf)'         198.0  104.0
+  [total]                  241.0  183.0
+
+key
+  F                         15.0   15.0
+  A                         26.0   17.0
+  A#                        21.0    7.0
+  C#                        32.0   34.0
+  G                         33.0   29.0
+  E                         15.0   13.0
+  B                         27.0   14.0
+  G#                        16.0   18.0
+  D                         20.0   10.0
+  C                         15.0   12.0
+  F#                        26.0   20.0
+  D#                         5.0    4.0
+  [total]                  251.0  193.0
+
+liveness
+  'All'                    240.0  182.0
+  [total]                  240.0  182.0
+
+loudness
+  '(-inf--6.3995]'          57.0   10.0
+  '(-6.3995-inf)'          184.0  173.0
+  [total]                  241.0  183.0
+
+mode
+  minor                    113.0   94.0
+  major                    128.0   89.0
+  [total]                  241.0  183.0
+
+speechiness
+  'All'                    240.0  182.0
+  [total]                  240.0  182.0
+
+tempo
+  '(-inf-155.051]'         148.0  148.0
+  '(155.051-189.4515]'      93.0   27.0
+  '(189.4515-inf)'           1.0    9.0
+  [total]                  242.0  184.0
+
+time_signature
+  'All'                    240.0  182.0
+  [total]                  240.0  182.0
+
+valence
+  'All'                    240.0  182.0
+  [total]                  240.0  182.0
+
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         269               64.0476 %
+Incorrectly Classified Instances       151               35.9524 %
+Kappa statistic                          0.2694
+Mean absolute error                      0.4084
+Root mean squared error                  0.4681
+Relative absolute error                 83.2674 %
+Root relative squared error             94.5249 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.674    0.403    0.688      0.674    0.681      0.270    0.703     0.754     True
+                 0.597    0.326    0.581      0.597    0.589      0.270    0.703     0.616     False
+Weighted Avg.    0.640    0.370    0.642      0.640    0.641      0.270    0.703     0.695     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 161  78 |   a = True
+  73 108 |   b = False
+

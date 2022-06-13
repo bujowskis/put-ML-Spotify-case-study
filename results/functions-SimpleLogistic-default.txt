@@ -1,0 +1,69 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.functions.SimpleLogistic -I 0 -M 500 -H 50 -W 0.0
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+SimpleLogistic:
+
+Class True :
+-1.59 + 
+[danceability] * 1.18 +
+[instrumentalness] * 0.67 +
+[key=A#] * 0.48 +
+[speechiness] * 0.87 +
+[tempo] * 0.01
+
+Class False :
+1.59 + 
+[danceability] * -1.18 +
+[instrumentalness] * -0.67 +
+[key=A#] * -0.48 +
+[speechiness] * -0.87 +
+[tempo] * -0.01
+
+
+Time taken to build model: 0.02 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         264               62.8571 %
+Incorrectly Classified Instances       156               37.1429 %
+Kappa statistic                          0.2324
+Mean absolute error                      0.4343
+Root mean squared error                  0.4742
+Relative absolute error                 88.5456 %
+Root relative squared error             95.7627 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.715    0.486    0.660      0.715    0.687      0.234    0.674     0.741     True
+                 0.514    0.285    0.578      0.514    0.544      0.234    0.674     0.571     False
+Weighted Avg.    0.629    0.399    0.625      0.629    0.625      0.234    0.674     0.667     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 171  68 |   a = True
+  88  93 |   b = False
+

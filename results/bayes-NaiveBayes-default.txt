@@ -1,0 +1,138 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.NaiveBayes 
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Naive Bayes Classifier
+
+                      Class
+Attribute              True    False
+                     (0.57)   (0.43)
+=====================================
+acousticness
+  mean                0.0596   0.0536
+  std. dev.           0.0882   0.0741
+  weight sum             239      181
+  precision           0.0014   0.0014
+
+danceability
+  mean                0.5584   0.5155
+  std. dev.           0.1292   0.1174
+  weight sum             239      181
+  precision           0.0029   0.0029
+
+energy
+  mean                 0.918   0.9299
+  std. dev.           0.0908     0.07
+  weight sum             239      181
+  precision           0.0025   0.0025
+
+instrumentalness
+  mean                0.2536   0.1243
+  std. dev.           0.3311    0.255
+  weight sum             239      181
+  precision           0.0031   0.0031
+
+key
+  F                     15.0     15.0
+  A                     26.0     17.0
+  A#                    21.0      7.0
+  C#                    32.0     34.0
+  G                     33.0     29.0
+  E                     15.0     13.0
+  B                     27.0     14.0
+  G#                    16.0     18.0
+  D                     20.0     10.0
+  C                     15.0     12.0
+  F#                    26.0     20.0
+  D#                     5.0      4.0
+  [total]              251.0    193.0
+
+liveness
+  mean                0.2598   0.2477
+  std. dev.           0.2048   0.1891
+  weight sum             239      181
+  precision           0.0029   0.0029
+
+loudness
+  mean                -4.171  -3.0617
+  std. dev.           2.9676   2.2127
+  weight sum             239      181
+  precision           0.0448   0.0448
+
+mode
+  minor                113.0     94.0
+  major                128.0     89.0
+  [total]              241.0    183.0
+
+speechiness
+  mean                0.1595   0.1395
+  std. dev.           0.1253   0.1124
+  weight sum             239      181
+  precision           0.0018   0.0018
+
+tempo
+  mean              144.9575 135.2028
+  std. dev.          27.7091  32.5015
+  weight sum             239      181
+  precision           0.3253   0.3253
+
+time_signature
+  mean                4.4435   4.3591
+  std. dev.           0.3168   0.5394
+  weight sum             239      181
+  precision              1.5      1.5
+
+valence
+  mean                0.2408   0.2316
+  std. dev.           0.1624   0.1652
+  weight sum             239      181
+  precision           0.0028   0.0028
+
+
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         250               59.5238 %
+Incorrectly Classified Instances       170               40.4762 %
+Kappa statistic                          0.1952
+Mean absolute error                      0.4228
+Root mean squared error                  0.5086
+Relative absolute error                 86.1923 %
+Root relative squared error            102.7108 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.565    0.365    0.672      0.565    0.614      0.198    0.644     0.713     True
+                 0.635    0.435    0.525      0.635    0.575      0.198    0.644     0.545     False
+Weighted Avg.    0.595    0.395    0.608      0.595    0.597      0.198    0.644     0.640     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 135 104 |   a = True
+  66 115 |   b = False
+

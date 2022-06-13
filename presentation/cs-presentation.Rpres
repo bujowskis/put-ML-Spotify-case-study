@@ -237,6 +237,98 @@ Speechiness - Energy
 # Classification
 
 - 10-Folds Cross-validation for all of the algorithms
+- checked lots, elaborated a few chosen
+
+Trees - overview ranking
+===
+- 65.7143%: **LMT (default)**
+- 64.7619%:
+  - **J48 (default)**
+  - **J48 (useLaplace)**
+- 63.5714%: REPTree (default)
+- 62.3810%: J48 (binarySplits)
+- 61.9048%:
+  - REPTree (pruned)
+  - HoeffdingTree (default)
+- 61.6667%: RandomForest (default)
+- 60.9524%: J48 (unpruned)
+- 57.6190%: DecisionStump (default)
+
+LMT
+===
+
+TODO
 
 J48
 ===
+
+### TODO - default
+
+### TODO - useLaplace
+
+Bayes - overview ranking
+===
+- 65.2381%: **BayesNet (BMAEstimator)**
+- 64.0476%:
+  - **NaiveBayes (useSupervisedDiscretization)**
+  - **BayesNet (default)**
+- 61.6667%: NaiveBayes (useKernelEstimator)
+- 59.5238%: NaiveBayes (default)
+
+BayesNet
+===
+
+### TODO - BMAEstimator
+
+### TODO - useSupervisedDiscretization 
+
+NaiveBayes
+===
+
+TODO
+
+Rules
+===
+- 63.8095%: **DecisionTable (useIBk)**
+- 63.5714%: **DecisionTable (default)**
+- 62.8571%: **JRip (default)**
+- 60.0000%: PART (MDLcorrelation: False)
+- 59.5238%: PART (reducedErrorPruning)
+- 57.3810%: PART (binarySplits)
+- 56.4286%: PART (unpruned)
+- 55.2381%: rules-PART-default
+
+DecisionTable
+===
+
+### TODO - default
+
+### TODO - useIBk
+
+JRip
+===
+
+TODO
+
+Lazy
+===
+- 64.0476%: **LWL (J48)**
+- 62.8571%:
+  - **LWL (default)**
+  - LWL (RandomForest) - `NOTE - very slow`
+- 59.2857%: KStar (default)
+- 58.0952%: IBk (default)
+
+LWL
+===
+
+### TODO - J48
+
+### TODO - default
+
+Real-life validation
+===
+
+### TODO - DISCLAIMER
+
+Validation with spotify's recommendation may be somehow inconclusive, as I only get insight into TP and TN - no way to know how many FP and FN (I don't get that info from Spotify)

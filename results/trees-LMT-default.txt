@@ -1,0 +1,75 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.LMT -I -1 -M 15 -W 0.0
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Logistic model tree 
+------------------
+: LM_1:5/5 (420)
+
+Number of Leaves  : 	1
+
+Size of the Tree : 	1
+LM_1:
+Class True :
+-1.59 + 
+[danceability] * 1.18 +
+[instrumentalness] * 0.67 +
+[key=A#] * 0.48 +
+[speechiness] * 0.87 +
+[tempo] * 0.01
+
+Class False :
+1.59 + 
+[danceability] * -1.18 +
+[instrumentalness] * -0.67 +
+[key=A#] * -0.48 +
+[speechiness] * -0.87 +
+[tempo] * -0.01
+
+
+Time taken to build model: 0.06 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         276               65.7143 %
+Incorrectly Classified Instances       144               34.2857 %
+Kappa statistic                          0.301 
+Mean absolute error                      0.3925
+Root mean squared error                  0.4714
+Relative absolute error                 80.0205 %
+Root relative squared error             95.1826 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.699    0.398    0.699      0.699    0.699      0.301    0.709     0.755     True
+                 0.602    0.301    0.602      0.602    0.602      0.301    0.709     0.630     False
+Weighted Avg.    0.657    0.356    0.657      0.657    0.657      0.301    0.709     0.701     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 167  72 |   a = True
+  72 109 |   b = False
+

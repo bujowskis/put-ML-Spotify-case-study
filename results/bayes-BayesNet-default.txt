@@ -1,0 +1,74 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Bayes Network Classifier
+not using ADTree
+#attributes=13 #classindex=12
+Network structure (nodes followed by parents)
+acousticness(1): liked 
+danceability(2): liked 
+energy(1): liked 
+instrumentalness(2): liked 
+key(12): liked 
+liveness(1): liked 
+loudness(2): liked 
+mode(2): liked 
+speechiness(1): liked 
+tempo(3): liked 
+time_signature(1): liked 
+valence(1): liked 
+liked(2): 
+LogScore Bayes: -2492.729433970241
+LogScore BDeu: -2575.5041163536894
+LogScore MDL: -2564.8879764472968
+LogScore ENTROPY: -2459.1835189999424
+LogScore AIC: -2494.1835189999424
+
+
+Time taken to build model: 0.01 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         269               64.0476 %
+Incorrectly Classified Instances       151               35.9524 %
+Kappa statistic                          0.2694
+Mean absolute error                      0.407 
+Root mean squared error                  0.4685
+Relative absolute error                 82.9742 %
+Root relative squared error             94.6104 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.674    0.403    0.688      0.674    0.681      0.270    0.702     0.754     True
+                 0.597    0.326    0.581      0.597    0.589      0.270    0.702     0.618     False
+Weighted Avg.    0.640    0.370    0.642      0.640    0.641      0.270    0.702     0.695     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 161  78 |   a = True
+  73 108 |   b = False
+

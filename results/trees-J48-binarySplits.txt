@@ -1,0 +1,129 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.J48 -B -C 0.25 -M 2
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+J48 pruned tree
+------------------
+
+danceability <= 0.665
+|   tempo <= 155.05
+|   |   loudness <= -6.124
+|   |   |   instrumentalness <= 0.0171
+|   |   |   |   energy <= 0.694: True (2.0)
+|   |   |   |   energy > 0.694
+|   |   |   |   |   valence <= 0.153: True (3.0/1.0)
+|   |   |   |   |   valence > 0.153: False (5.0)
+|   |   |   instrumentalness > 0.0171: True (26.0/2.0)
+|   |   loudness > -6.124
+|   |   |   instrumentalness <= 9.1E-5
+|   |   |   |   speechiness <= 0.347: False (73.0/10.0)
+|   |   |   |   speechiness > 0.347
+|   |   |   |   |   danceability <= 0.472: True (6.0)
+|   |   |   |   |   danceability > 0.472: False (2.0)
+|   |   |   instrumentalness > 9.1E-5
+|   |   |   |   key = A#: True (5.0)
+|   |   |   |   key != A#
+|   |   |   |   |   key = D
+|   |   |   |   |   |   tempo <= 125.055
+|   |   |   |   |   |   |   loudness <= -1.599: False (3.0)
+|   |   |   |   |   |   |   loudness > -1.599: True (2.0)
+|   |   |   |   |   |   tempo > 125.055: True (3.0)
+|   |   |   |   |   key != D
+|   |   |   |   |   |   key = C#
+|   |   |   |   |   |   |   acousticness <= 0.0691: False (16.0/2.0)
+|   |   |   |   |   |   |   acousticness > 0.0691: True (4.0)
+|   |   |   |   |   |   key != C#
+|   |   |   |   |   |   |   key = E
+|   |   |   |   |   |   |   |   valence <= 0.0838: True (2.0)
+|   |   |   |   |   |   |   |   valence > 0.0838: False (5.0)
+|   |   |   |   |   |   |   key != E
+|   |   |   |   |   |   |   |   mode = minor
+|   |   |   |   |   |   |   |   |   key = G: False (2.0)
+|   |   |   |   |   |   |   |   |   key != G
+|   |   |   |   |   |   |   |   |   |   key = B
+|   |   |   |   |   |   |   |   |   |   |   liveness <= 0.187: False (3.0)
+|   |   |   |   |   |   |   |   |   |   |   liveness > 0.187: True (6.0/1.0)
+|   |   |   |   |   |   |   |   |   |   key != B
+|   |   |   |   |   |   |   |   |   |   |   key = F#
+|   |   |   |   |   |   |   |   |   |   |   |   acousticness <= 0.00365: True (3.0)
+|   |   |   |   |   |   |   |   |   |   |   |   acousticness > 0.00365
+|   |   |   |   |   |   |   |   |   |   |   |   |   acousticness <= 0.0951: False (5.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   acousticness > 0.0951: True (2.0)
+|   |   |   |   |   |   |   |   |   |   |   key != F#
+|   |   |   |   |   |   |   |   |   |   |   |   speechiness <= 0.108
+|   |   |   |   |   |   |   |   |   |   |   |   |   liveness <= 0.185: True (8.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   |   liveness > 0.185: False (5.0/1.0)
+|   |   |   |   |   |   |   |   |   |   |   |   speechiness > 0.108: False (8.0/1.0)
+|   |   |   |   |   |   |   |   mode != minor
+|   |   |   |   |   |   |   |   |   instrumentalness <= 0.156
+|   |   |   |   |   |   |   |   |   |   energy <= 0.953: True (8.0)
+|   |   |   |   |   |   |   |   |   |   energy > 0.953
+|   |   |   |   |   |   |   |   |   |   |   speechiness <= 0.181: True (12.0/3.0)
+|   |   |   |   |   |   |   |   |   |   |   speechiness > 0.181: False (7.0/1.0)
+|   |   |   |   |   |   |   |   |   instrumentalness > 0.156: False (11.0/1.0)
+|   tempo > 155.05
+|   |   tempo <= 188.983: True (106.0/26.0)
+|   |   tempo > 188.983: False (8.0)
+danceability > 0.665
+|   speechiness <= 0.0427: False (4.0)
+|   speechiness > 0.0427
+|   |   key = C#
+|   |   |   danceability <= 0.69: False (4.0/1.0)
+|   |   |   danceability > 0.69: True (4.0)
+|   |   key != C#
+|   |   |   valence <= 0.451: True (45.0)
+|   |   |   valence > 0.451
+|   |   |   |   tempo <= 130.054: False (4.0/1.0)
+|   |   |   |   tempo > 130.054: True (8.0)
+
+Number of Leaves  : 	36
+
+Size of the tree : 	71
+
+
+Time taken to build model: 0.03 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         262               62.381  %
+Incorrectly Classified Instances       158               37.619  %
+Kappa statistic                          0.2236
+Mean absolute error                      0.399 
+Root mean squared error                  0.5577
+Relative absolute error                 81.3328 %
+Root relative squared error            112.6129 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.707    0.486    0.658      0.707    0.681      0.225    0.620     0.634     True
+                 0.514    0.293    0.571      0.514    0.541      0.225    0.620     0.536     False
+Weighted Avg.    0.624    0.403    0.620      0.624    0.621      0.225    0.620     0.592     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 169  70 |   a = True
+  88  93 |   b = False
+

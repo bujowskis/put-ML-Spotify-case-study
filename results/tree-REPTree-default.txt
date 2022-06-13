@@ -1,0 +1,95 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.REPTree -M 2 -V 0.001 -N 3 -S 1 -L -1 -I 0.0
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+REPTree
+============
+
+loudness < -5.6
+|   key = F
+|   |   instrumentalness < 0.01 : False (2/0) [2/0]
+|   |   instrumentalness >= 0.01 : True (2/0) [0/0]
+|   key = A : True (7/2) [2/1]
+|   key = A# : True (7/0) [1/1]
+|   key = C# : True (9/0) [3/0]
+|   key = G : True (9/1) [2/1]
+|   key = E : True (4/1) [0/0]
+|   key = B : True (12/2) [3/1]
+|   key = G# : False (2/1) [3/1]
+|   key = D : True (4/1) [2/0]
+|   key = C : True (3/0) [3/1]
+|   key = F# : True (4/0) [6/0]
+|   key = D# : True (0/0) [1/0]
+loudness >= -5.6
+|   key = F : True (14/7) [8/3]
+|   key = A : True (23/11) [9/2]
+|   key = A# : True (11/2) [7/3]
+|   key = C#
+|   |   speechiness < 0.05 : False (8/0) [2/0]
+|   |   speechiness >= 0.05
+|   |   |   valence < 0.14 : False (10/1) [5/3]
+|   |   |   valence >= 0.14
+|   |   |   |   acousticness < 0.02 : False (13/5) [3/1]
+|   |   |   |   acousticness >= 0.02 : True (8/1) [3/1]
+|   key = G
+|   |   instrumentalness < 0 : False (10/0) [3/0]
+|   |   instrumentalness >= 0 : True (24/10) [12/3]
+|   key = E : True (11/5) [11/6]
+|   key = B : True (16/7) [8/3]
+|   key = G# : False (16/8) [11/5]
+|   key = D : True (13/3) [9/5]
+|   key = C
+|   |   acousticness < 0.13 : False (11/3) [4/2]
+|   |   acousticness >= 0.13 : True (3/0) [1/0]
+|   key = F# : False (21/9) [13/6]
+|   key = D# : True (3/2) [3/1]
+
+Size of the tree : 39
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         267               63.5714 %
+Incorrectly Classified Instances       153               36.4286 %
+Kappa statistic                          0.2456
+Mean absolute error                      0.421 
+Root mean squared error                  0.4963
+Relative absolute error                 85.8325 %
+Root relative squared error            100.2099 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.728    0.486    0.664      0.728    0.695      0.247    0.659     0.693     True
+                 0.514    0.272    0.589      0.514    0.549      0.247    0.659     0.567     False
+Weighted Avg.    0.636    0.394    0.632      0.636    0.632      0.247    0.659     0.639     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 174  65 |   a = True
+  88  93 |   b = False
+

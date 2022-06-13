@@ -1,0 +1,56 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.lazy.LWL -U 0 -K -1 -A "weka.core.neighboursearch.LinearNNSearch -A \"weka.core.EuclideanDistance -R first-last\"" -W weka.classifiers.trees.DecisionStump
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+Locally weighted learning
+===========================
+Using classifier: weka.classifiers.trees.DecisionStump
+Using linear weighting kernels
+Using all neighbours
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         264               62.8571 %
+Incorrectly Classified Instances       156               37.1429 %
+Kappa statistic                          0.2065
+Mean absolute error                      0.452 
+Root mean squared error                  0.4802
+Relative absolute error                 92.1427 %
+Root relative squared error             96.9587 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.816    0.619    0.635      0.816    0.714      0.220    0.639     0.703     True
+                 0.381    0.184    0.611      0.381    0.469      0.220    0.639     0.573     False
+Weighted Avg.    0.629    0.431    0.625      0.629    0.609      0.220    0.639     0.647     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 195  44 |   a = True
+ 112  69 |   b = False
+

@@ -1,0 +1,22 @@
+65.7143%: trees-LMT-default
+65.2381%: bayes-BayesNet-BMAEstimator
+64.7619%: trees-J48-default AND trees-J48-Laplace
+64.0476%: bayes-NaiveBayes-discret AND bayes-BayesNet-default AND lazy-LWL-J48
+63.8095%: rules-DecisionTable-useIBk
+63.5714%: trees-REPTree-default AND rules-DecisionTable-default
+62.8571%: functions-SimpleLogistic-default AND functions-SimpleLogistic-useAIC AND lazy-LWL-default AND lazy-LWL-RandomForest (+ very slow) AND rules-JRip-default
+62.3810%: trees-J48-binarySplits
+61.9048%: trees-REPTree-pruned AND trees-HoeffdingTree-default
+61.6667%: bayes-NaiveBayes-kernel AND trees-RandomForest-default
+60.9524%: trees-J48-unpruned
+60.0000%: rules-PART-noMDLcorr
+59.5238%: bayes-NaiveBayes-default AND rules-PART-reducedErrorPruning
+59.2857%: lazy-KStar-default
+58.0952%: lazy-IBk-default AND a bunch of params
+57.6190%: trees-DecisionStump-default
+57.3810%: rules-PART-binarySplits
+56.4286%: rules-PART-unpruned
+
+55.4762%: BASELINE - rules-OneR (tempo)
+
+55.2381%: rules-PART-default

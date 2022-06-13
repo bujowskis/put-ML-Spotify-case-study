@@ -1,0 +1,213 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.REPTree -M 2 -V 0.001 -N 3 -S 1 -L -1 -P -I 0.0
+Relation:     combined-prep
+Instances:    420
+Attributes:   13
+              acousticness
+              danceability
+              energy
+              instrumentalness
+              key
+              liveness
+              loudness
+              mode
+              speechiness
+              tempo
+              time_signature
+              valence
+              liked
+Test mode:    10-fold cross-validation
+
+=== Classifier model (full training set) ===
+
+
+REPTree
+============
+
+instrumentalness < 0
+|   tempo < 155.25
+|   |   speechiness < 0.43
+|   |   |   key = F : False (3/0) [0/0]
+|   |   |   key = A
+|   |   |   |   tempo < 150.08
+|   |   |   |   |   instrumentalness < 0 : True (4/0) [0/0]
+|   |   |   |   |   instrumentalness >= 0
+|   |   |   |   |   |   acousticness < 0.01 : True (2/1) [0/0]
+|   |   |   |   |   |   acousticness >= 0.01 : False (3/0) [0/0]
+|   |   |   |   tempo >= 150.08 : False (5/0) [0/0]
+|   |   |   key = A#
+|   |   |   |   energy < 0.95 : False (5/0) [0/0]
+|   |   |   |   energy >= 0.95 : True (2/0) [0/0]
+|   |   |   key = C#
+|   |   |   |   energy < 0.93 : False (8/0) [0/0]
+|   |   |   |   energy >= 0.93
+|   |   |   |   |   energy < 0.97 : True (2/0) [0/0]
+|   |   |   |   |   energy >= 0.97 : False (2/0) [0/0]
+|   |   |   key = G : False (13/1) [0/0]
+|   |   |   key = E
+|   |   |   |   danceability < 0.46 : True (2/0) [0/0]
+|   |   |   |   danceability >= 0.46 : False (5/0) [0/0]
+|   |   |   key = B
+|   |   |   |   liveness < 0.66 : False (5/0) [0/0]
+|   |   |   |   liveness >= 0.66 : True (2/0) [0/0]
+|   |   |   key = G#
+|   |   |   |   acousticness < 0.03 : True (2/1) [0/0]
+|   |   |   |   acousticness >= 0.03 : False (5/0) [0/0]
+|   |   |   key = D
+|   |   |   |   loudness < -2.37 : True (5/1) [0/0]
+|   |   |   |   loudness >= -2.37 : False (3/0) [0/0]
+|   |   |   key = C : False (3/0) [0/0]
+|   |   |   key = F# : False (10/1) [0/0]
+|   |   |   key = D# : False (2/0) [0/0]
+|   |   speechiness >= 0.43 : True (5/0) [0/0]
+|   tempo >= 155.25
+|   |   key = F : False (1/0) [0/0]
+|   |   key = A : True (2/0) [0/0]
+|   |   key = A# : True (2/0) [0/0]
+|   |   key = C# : True (2/0) [0/0]
+|   |   key = G : False (3/1) [0/0]
+|   |   key = E : True (2/0) [0/0]
+|   |   key = B : False (1/0) [0/0]
+|   |   key = G# : True (1/0) [0/0]
+|   |   key = D : True (3/0) [0/0]
+|   |   key = C : True (0/0) [0/0]
+|   |   key = F#
+|   |   |   acousticness < 0.03 : True (2/0) [0/0]
+|   |   |   acousticness >= 0.03 : True (2/1) [0/0]
+|   |   key = D# : True (1/0) [0/0]
+instrumentalness >= 0
+|   danceability < 0.68
+|   |   key = F
+|   |   |   danceability < 0.4 : True (3/0) [0/0]
+|   |   |   danceability >= 0.4
+|   |   |   |   valence < 0.37
+|   |   |   |   |   loudness < -4.19
+|   |   |   |   |   |   instrumentalness < 0.01 : False (2/0) [0/0]
+|   |   |   |   |   |   instrumentalness >= 0.01 : True (2/0) [0/0]
+|   |   |   |   |   loudness >= -4.19 : False (6/0) [0/0]
+|   |   |   |   valence >= 0.37 : True (6/1) [0/0]
+|   |   key = A
+|   |   |   tempo < 150.02
+|   |   |   |   liveness < 0.39
+|   |   |   |   |   acousticness < 0.02
+|   |   |   |   |   |   speechiness < 0.12 : True (2/0) [0/0]
+|   |   |   |   |   |   speechiness >= 0.12 : False (4/0) [0/0]
+|   |   |   |   |   acousticness >= 0.02 : True (4/0) [0/0]
+|   |   |   |   liveness >= 0.39 : False (3/0) [0/0]
+|   |   |   tempo >= 150.02 : True (7/0) [0/0]
+|   |   key = A# : True (16/1) [0/0]
+|   |   key = C#
+|   |   |   acousticness < 0.07
+|   |   |   |   loudness < -5.6 : True (5/0) [0/0]
+|   |   |   |   loudness >= -5.6
+|   |   |   |   |   valence < 0.23
+|   |   |   |   |   |   liveness < 0.22 : False (14/0) [0/0]
+|   |   |   |   |   |   liveness >= 0.22
+|   |   |   |   |   |   |   instrumentalness < 0.22 : False (3/0) [0/0]
+|   |   |   |   |   |   |   instrumentalness >= 0.22 : True (3/1) [0/0]
+|   |   |   |   |   valence >= 0.23
+|   |   |   |   |   |   instrumentalness < 0.85
+|   |   |   |   |   |   |   loudness < -1.58 : True (5/0) [0/0]
+|   |   |   |   |   |   |   loudness >= -1.58 : False (2/0) [0/0]
+|   |   |   |   |   |   instrumentalness >= 0.85 : False (3/0) [0/0]
+|   |   |   acousticness >= 0.07 : True (8/0) [0/0]
+|   |   key = G
+|   |   |   loudness < -6.21 : True (7/0) [0/0]
+|   |   |   loudness >= -6.21
+|   |   |   |   energy < 0.92 : False (7/1) [0/0]
+|   |   |   |   energy >= 0.92
+|   |   |   |   |   liveness < 0.15 : True (6/0) [0/0]
+|   |   |   |   |   liveness >= 0.15
+|   |   |   |   |   |   danceability < 0.49
+|   |   |   |   |   |   |   valence < 0.06 : True (2/0) [0/0]
+|   |   |   |   |   |   |   valence >= 0.06 : False (5/0) [0/0]
+|   |   |   |   |   |   danceability >= 0.49
+|   |   |   |   |   |   |   speechiness < 0.34 : True (10/1) [0/0]
+|   |   |   |   |   |   |   speechiness >= 0.34 : False (2/0) [0/0]
+|   |   key = E
+|   |   |   energy < 0.9 : True (4/0) [0/0]
+|   |   |   energy >= 0.9
+|   |   |   |   instrumentalness < 0 : True (4/1) [0/0]
+|   |   |   |   instrumentalness >= 0 : False (6/0) [0/0]
+|   |   key = B
+|   |   |   acousticness < 0.27
+|   |   |   |   instrumentalness < 0.86 : True (18/1) [0/0]
+|   |   |   |   instrumentalness >= 0.86 : False (2/0) [0/0]
+|   |   |   acousticness >= 0.27 : False (3/0) [0/0]
+|   |   key = G#
+|   |   |   danceability < 0.42 : False (5/0) [0/0]
+|   |   |   danceability >= 0.42
+|   |   |   |   acousticness < 0.11
+|   |   |   |   |   energy < 0.97 : True (6/3) [0/0]
+|   |   |   |   |   energy >= 0.97 : True (6/0) [0/0]
+|   |   |   |   acousticness >= 0.11 : False (3/0) [0/0]
+|   |   key = D
+|   |   |   energy < 0.9 : True (5/0) [0/0]
+|   |   |   energy >= 0.9
+|   |   |   |   valence < 0.13 : True (3/0) [0/0]
+|   |   |   |   valence >= 0.13
+|   |   |   |   |   speechiness < 0.06 : True (3/1) [0/0]
+|   |   |   |   |   speechiness >= 0.06 : False (4/0) [0/0]
+|   |   key = C
+|   |   |   energy < 0.89 : False (3/0) [0/0]
+|   |   |   energy >= 0.89
+|   |   |   |   loudness < -1.48
+|   |   |   |   |   liveness < 0.12
+|   |   |   |   |   |   speechiness < 0.11 : True (2/0) [0/0]
+|   |   |   |   |   |   speechiness >= 0.11 : False (2/0) [0/0]
+|   |   |   |   |   liveness >= 0.12 : True (8/0) [0/0]
+|   |   |   |   loudness >= -1.48 : False (2/0) [0/0]
+|   |   key = F#
+|   |   |   instrumentalness < 0.33
+|   |   |   |   liveness < 0.31 : False (6/0) [0/0]
+|   |   |   |   liveness >= 0.31
+|   |   |   |   |   instrumentalness < 0.13
+|   |   |   |   |   |   danceability < 0.63 : True (6/0) [0/0]
+|   |   |   |   |   |   danceability >= 0.63 : True (2/1) [0/0]
+|   |   |   |   |   instrumentalness >= 0.13 : False (2/0) [0/0]
+|   |   |   instrumentalness >= 0.33 : True (10/0) [0/0]
+|   |   key = D# : True (4/1) [0/0]
+|   danceability >= 0.68
+|   |   key = F : True (5/1) [0/0]
+|   |   key = A : True (5/0) [0/0]
+|   |   key = A# : True (0/0) [0/0]
+|   |   key = C# : True (4/0) [0/0]
+|   |   key = G : True (5/0) [0/0]
+|   |   key = E : True (3/0) [0/0]
+|   |   key = B : True (7/1) [0/0]
+|   |   key = G# : True (4/0) [0/0]
+|   |   key = D : True (2/0) [0/0]
+|   |   key = C : True (5/1) [0/0]
+|   |   key = F# : True (4/0) [0/0]
+|   |   key = D# : True (0/0) [0/0]
+
+Size of the tree : 157
+
+Time taken to build model: 0 seconds
+
+=== Stratified cross-validation ===
+=== Summary ===
+
+Correctly Classified Instances         260               61.9048 %
+Incorrectly Classified Instances       160               38.0952 %
+Kappa statistic                          0.2159
+Mean absolute error                      0.3942
+Root mean squared error                  0.5896
+Relative absolute error                 80.3588 %
+Root relative squared error            119.0523 %
+Total Number of Instances              420     
+
+=== Detailed Accuracy By Class ===
+
+                 TP Rate  FP Rate  Precision  Recall   F-Measure  MCC      ROC Area  PRC Area  Class
+                 0.695    0.481    0.656      0.695    0.675      0.216    0.606     0.638     True
+                 0.519    0.305    0.563      0.519    0.540      0.216    0.606     0.506     False
+Weighted Avg.    0.619    0.405    0.616      0.619    0.617      0.216    0.606     0.581     
+
+=== Confusion Matrix ===
+
+   a   b   <-- classified as
+ 166  73 |   a = True
+  87  94 |   b = False
+
