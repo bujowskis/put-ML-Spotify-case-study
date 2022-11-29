@@ -11,3 +11,8 @@ Personally, I am quite a music junkie with a rather *particular* taste in music.
 I'm extensively using Spotify as a music streaming service of my choice. The problem is, the recommendations system that's supposed to provide me with new tracks I will like does a pretty bad job at it - my **Discover weekly** playlist has an accuracy of just `1/30` songs.
 
 I'm unsure whether that's a problem with Spotify's system being bad or me being too picky. That's why in this case study I'd like to explore that problem by applying different classifiers to see if they can do better, thus inducing that the current Spotify's system could be improved.
+
+# Presentation
+You can find the presentation in `.html`, `.Rpres` and `.md` format in the [following folder](https://github.com/bujowskis/put-ML-Spotify-case-study/tree/main/presentation). There's no .pdf version, since the presentation contains gifs.
+
+It's most likely the most convenient for you to view the [Markdown format version](https://github.com/bujowskis/put-ML-Spotify-case-study/blob/main/presentation/cs-presentation.md)
